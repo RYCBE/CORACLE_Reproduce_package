@@ -1,0 +1,1 @@
+('myfaces-core-project-2.1.2', 'impl/src/main/java/org/apache/myfaces/util/AbstractAttributeMap.java')

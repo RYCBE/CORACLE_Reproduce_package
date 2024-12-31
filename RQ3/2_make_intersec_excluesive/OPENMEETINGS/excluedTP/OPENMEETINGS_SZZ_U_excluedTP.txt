@@ -1,0 +1,5 @@
+('3.1.2', 'openmeetings-core/src/main/java/org/apache/openmeetings/core/remote/WhiteBoardService.java')
+('3.1.2', 'openmeetings-core/src/main/java/org/apache/openmeetings/core/converter/BaseConverter.java')
+('3.1.5RC1', 'openmeetings-web/src/main/java/org/apache/openmeetings/web/app/WebSession.java')
+('3.1.4RC1', 'openmeetings-core/src/main/java/org/apache/openmeetings/core/converter/BaseConverter.java')
+('3.1.3RC1', 'openmeetings-core/src/main/java/org/apache/openmeetings/core/converter/BaseConverter.java')

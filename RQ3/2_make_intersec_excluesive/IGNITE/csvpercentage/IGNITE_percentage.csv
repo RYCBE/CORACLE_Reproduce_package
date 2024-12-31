@@ -1,0 +1,14 @@
+algorithm,dataset_ignite,percentage
+Proportion_ColdStart,0/6451,0.0
+Proportion_ColdStart+,0/6451,0.0
+Proportion_Increment,0/6451,0.0
+Proportion_Increment+,0/6451,0.0
+Proportion_MovingWindow,0/6451,0.0
+Proportion_MovingWindow+,0/6451,0.0
+SZZ_B,0/6451,0.0
+SZZ_B+,0/6451,0.0
+SZZ_RA,0/6451,0.0
+SZZ_RA+,0/6451,0.0
+SZZ_U,12/6451,0.0018601767167880949
+SZZ_U+,12/6451,0.0018601767167880949
+Simple,0/6451,0.0

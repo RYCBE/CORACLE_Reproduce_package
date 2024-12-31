@@ -1,0 +1,14 @@
+algorithm,dataset_cxf,percentage
+Proportion_ColdStart,0/15885,0.0
+Proportion_ColdStart+,0/15885,0.0
+Proportion_Increment,0/15885,0.0
+Proportion_Increment+,0/15885,0.0
+Proportion_MovingWindow,0/15885,0.0
+Proportion_MovingWindow+,0/15885,0.0
+SZZ_B,0/15885,0.0
+SZZ_B+,0/15885,0.0
+SZZ_RA,26/15885,0.0016367642429965376
+SZZ_RA+,26/15885,0.0016367642429965376
+SZZ_U,83/15885,0.005225055083412024
+SZZ_U+,83/15885,0.005225055083412024
+Simple,0/15885,0.0

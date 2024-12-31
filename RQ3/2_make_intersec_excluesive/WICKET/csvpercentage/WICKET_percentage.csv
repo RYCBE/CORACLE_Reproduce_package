@@ -1,0 +1,14 @@
+algorithm,dataset_wicket,percentage
+Proportion_ColdStart,0/12424,0.0
+Proportion_ColdStart+,0/12424,0.0
+Proportion_Increment,0/12424,0.0
+Proportion_Increment+,0/12424,0.0
+Proportion_MovingWindow,0/12424,0.0
+Proportion_MovingWindow+,0/12424,0.0
+SZZ_B,0/12424,0.0
+SZZ_B+,0/12424,0.0
+SZZ_RA,1/12424,8.048937540244688e-05
+SZZ_RA+,1/12424,8.048937540244688e-05
+SZZ_U,149/12424,0.011992916934964584
+SZZ_U+,149/12424,0.011992916934964584
+Simple,0/12424,0.0

@@ -1,0 +1,14 @@
+algorithm,dataset_karaf,percentage
+Proportion_ColdStart,0/4105,0.0
+Proportion_ColdStart+,0/4105,0.0
+Proportion_Increment,0/4105,0.0
+Proportion_Increment+,0/4105,0.0
+Proportion_MovingWindow,0/4105,0.0
+Proportion_MovingWindow+,0/4105,0.0
+SZZ_B,0/4105,0.0
+SZZ_B+,0/4105,0.0
+SZZ_RA,2/4105,0.00048721071863581
+SZZ_RA+,2/4105,0.00048721071863581
+SZZ_U,29/4105,0.007064555420219245
+SZZ_U+,29/4105,0.007064555420219245
+Simple,0/4105,0.0

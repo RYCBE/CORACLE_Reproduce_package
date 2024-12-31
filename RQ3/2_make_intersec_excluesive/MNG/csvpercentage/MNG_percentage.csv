@@ -1,0 +1,14 @@
+algorithm,dataset_maven,percentage
+Proportion_ColdStart,0/1428,0.0
+Proportion_ColdStart+,0/1428,0.0
+Proportion_Increment,0/1428,0.0
+Proportion_Increment+,0/1428,0.0
+Proportion_MovingWindow,0/1428,0.0
+Proportion_MovingWindow+,0/1428,0.0
+SZZ_B,0/1428,0.0
+SZZ_B+,0/1428,0.0
+SZZ_RA,0/1428,0.0
+SZZ_RA+,0/1428,0.0
+SZZ_U,11/1428,0.007703081232492998
+SZZ_U+,11/1428,0.007703081232492998
+Simple,0/1428,0.0

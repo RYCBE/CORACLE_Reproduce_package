@@ -1,0 +1,6 @@
+maven,'maven-2.2.0'||'maven-core/src/main/java/org/apache/maven/execution/MavenExecutionRequest.java'||'MNG-4335'||'08cc074b5085635cb90497ca7265245293739534',0,1,1,(1) Supportive code changes for cross-file bug fixes
+maven,'maven-3.5.0-beta-1'||'maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionRangeResolver.java'||'MNG-6168'||'0931bb2cc7630cc79adb98407db13315b4a709ee',1,1,2,
+maven,'maven-3.0-alpha-3'||'maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivator.java'||'MNG-4454'||'1068ab557c476a291f3f16bc2b2523d5613c5e17',1,1,2,
+maven,'maven-3.0'||'maven-compat/src/main/java/org/apache/maven/artifact/repository/DefaultArtifactRepositoryFactory.java'||'MNG-4991'||'150984b8677a6963433cfe2e64f7e0d81dbf9775',1,1,2,
+maven,'maven-3.2.5'||'maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java'||'MNG-5702'||'3b671d07340b002e13775883d09e7f7e0d9a3c49',1,1,2,
+maven,'maven-3.2.5'||'maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java'||'MNG-5702'||'cb91332d3d5931bafdd5d717338f4a0351c61810',1,1,2,

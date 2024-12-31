@@ -1,0 +1,10 @@
+pdfbox PDFBOX
+wicket WICKET
+jackrabbit JCR
+cxf CXF
+ignite IGNITE
+myfaces MYFACES
+camel CAMEL
+karaf KARAF
+maven MNG
+openmeetings OPENMEETINGS

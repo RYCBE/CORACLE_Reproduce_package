@@ -1,0 +1,2 @@
+('karaf-2.0.0', 'management/src/main/java/org/apache/karaf/management/ConnectorServerFactory.java')
+('karaf-2.1.0', 'management/src/main/java/org/apache/karaf/management/ConnectorServerFactory.java')

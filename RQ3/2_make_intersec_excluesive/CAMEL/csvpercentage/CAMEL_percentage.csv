@@ -1,0 +1,14 @@
+algorithm,dataset_camel,percentage
+Proportion_ColdStart,0/26078,0.0
+Proportion_ColdStart+,0/26078,0.0
+Proportion_Increment,0/26078,0.0
+Proportion_Increment+,0/26078,0.0
+Proportion_MovingWindow,0/26078,0.0
+Proportion_MovingWindow+,0/26078,0.0
+SZZ_B,0/26078,0.0
+SZZ_B+,0/26078,0.0
+SZZ_RA,62/26078,0.002377482935807961
+SZZ_RA+,62/26078,0.002377482935807961
+SZZ_U,197/26078,0.007554260296034972
+SZZ_U+,197/26078,0.007554260296034972
+Simple,0/26078,0.0

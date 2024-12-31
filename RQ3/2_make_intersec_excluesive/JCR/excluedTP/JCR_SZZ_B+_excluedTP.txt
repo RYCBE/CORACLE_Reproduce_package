@@ -1,0 +1,1 @@
+('2.7.4', 'jackrabbit-data/src/main/java/org/apache/jackrabbit/core/data/db/DbDataStore.java')
