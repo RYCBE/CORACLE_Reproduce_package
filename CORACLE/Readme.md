@@ -1,4 +1,1 @@
-
-
-
 `python start.py`
