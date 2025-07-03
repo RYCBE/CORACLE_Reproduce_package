@@ -1,0 +1,4571 @@
+{
+    "project": "OPENMEETINGS",
+    "only_addition_commits": 29,
+    "commits_with_additions": 497,
+    "total_commits": 507,
+    "commit_ratios": [
+        {
+            "commit": "f2d91360b0dbaf1480126c98893c6fe7a96d1c48",
+            "issueID": "OPENMEETINGS-1962",
+            "commitDate": "2018-10-30T22:35:33+07:00",
+            "added": 10,
+            "deleted": 2,
+            "total": 12,
+            "ratio": 0.8333333333333334
+        },
+        {
+            "commit": "1c3f765ee0c7f5c44ca5010ca6d8418f1a5cead7",
+            "issueID": "OPENMEETINGS-1720",
+            "commitDate": "2017-10-14T11:41:16+07:00",
+            "added": 7,
+            "deleted": 24,
+            "total": 31,
+            "ratio": 0.22580645161290322
+        },
+        {
+            "commit": "3d1f10f6b4029df1596ca4f967d375296519a492",
+            "issueID": "OPENMEETINGS-1720",
+            "commitDate": "2017-10-13T18:39:45+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "34697089933d60995b1bea5c537e062042a21f17",
+            "issueID": "OPENMEETINGS-1720",
+            "commitDate": "2017-10-13T18:39:07+07:00",
+            "added": 10,
+            "deleted": 10,
+            "total": 20,
+            "ratio": 0.5
+        },
+        {
+            "commit": "5e2dffb96a96c288efdb8888a04d689f78ebfb13",
+            "issueID": "OPENMEETINGS-1720",
+            "commitDate": "2017-10-13T18:21:32+07:00",
+            "added": 357,
+            "deleted": 22,
+            "total": 379,
+            "ratio": 0.941952506596306
+        },
+        {
+            "commit": "4225fdb5b9cb908bc282acc9b72936e20cbef13e",
+            "issueID": "OPENMEETINGS-1720",
+            "commitDate": "2017-10-13T12:34:48+07:00",
+            "added": 84,
+            "deleted": 68,
+            "total": 152,
+            "ratio": 0.5526315789473685
+        },
+        {
+            "commit": "220e729a0a702801d7d63cc3067f081d562223f3",
+            "issueID": "OPENMEETINGS-1720",
+            "commitDate": "2017-10-13T10:34:04+07:00",
+            "added": 314,
+            "deleted": 153,
+            "total": 467,
+            "ratio": 0.6723768736616702
+        },
+        {
+            "commit": "20ceddfe560a37c3f37d52ace88b9b157498c176",
+            "issueID": "OPENMEETINGS-1726",
+            "commitDate": "2017-10-20T15:05:21+07:00",
+            "added": 30,
+            "deleted": 30,
+            "total": 60,
+            "ratio": 0.5
+        },
+        {
+            "commit": "0ee55c9837b1005a9aa9228f449f5b97c3350b90",
+            "issueID": "OPENMEETINGS-1727",
+            "commitDate": "2017-10-23T18:55:49+07:00",
+            "added": 9,
+            "deleted": 7,
+            "total": 16,
+            "ratio": 0.5625
+        },
+        {
+            "commit": "42512905aa773f28604317add56361fb9b5620ac",
+            "issueID": "OPENMEETINGS-1727",
+            "commitDate": "2017-10-23T17:00:12+07:00",
+            "added": 30,
+            "deleted": 25,
+            "total": 55,
+            "ratio": 0.5454545454545454
+        },
+        {
+            "commit": "737df6e873aac5f4968f280e29502df9b6a5c37e",
+            "issueID": "OPENMEETINGS-1727",
+            "commitDate": "2017-10-23T16:14:03+07:00",
+            "added": 236,
+            "deleted": 49,
+            "total": 285,
+            "ratio": 0.8280701754385965
+        },
+        {
+            "commit": "49e95402b5fd0279a80086b436166662a267ab43",
+            "issueID": "OPENMEETINGS-1727",
+            "commitDate": "2017-10-23T13:01:56+07:00",
+            "added": 57,
+            "deleted": 36,
+            "total": 93,
+            "ratio": 0.6129032258064516
+        },
+        {
+            "commit": "070b3e4a1c457844ab6b1bf98cec1d11e6730f05",
+            "issueID": "OPENMEETINGS-1964",
+            "commitDate": "2018-11-15T09:27:42+07:00",
+            "added": 1,
+            "deleted": 13,
+            "total": 14,
+            "ratio": 0.07142857142857142
+        },
+        {
+            "commit": "8ff6b15c4bd1338c6dc463e941a909612f6f7d06",
+            "issueID": "OPENMEETINGS-1724",
+            "commitDate": "2017-10-23T21:38:11+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "37bc6378497a3fdbcc257168e9106c82669b028e",
+            "issueID": "OPENMEETINGS-1724",
+            "commitDate": "2017-10-22T22:56:43+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "715c251272c6a2dda9de6d323b741ccb39074d25",
+            "issueID": "OPENMEETINGS-1724",
+            "commitDate": "2017-10-22T22:54:34+07:00",
+            "added": 15,
+            "deleted": 6,
+            "total": 21,
+            "ratio": 0.7142857142857143
+        },
+        {
+            "commit": "26c75a4113736536c8039ffd9f9b4dc36803da95",
+            "issueID": "OPENMEETINGS-1724",
+            "commitDate": "2017-10-20T15:40:11+07:00",
+            "added": 6,
+            "deleted": 4,
+            "total": 10,
+            "ratio": 0.6
+        },
+        {
+            "commit": "67686134ba453294725ac2f8e4f698cd62ccf07e",
+            "issueID": "OPENMEETINGS-1718",
+            "commitDate": "2017-10-09T10:43:17+07:00",
+            "added": 8,
+            "deleted": 5,
+            "total": 13,
+            "ratio": 0.6153846153846154
+        },
+        {
+            "commit": "687415930cc6c81dbda3deef848f19b67168f7c1",
+            "issueID": "OPENMEETINGS-1719",
+            "commitDate": "2017-10-10T12:01:14+07:00",
+            "added": 27,
+            "deleted": 13,
+            "total": 40,
+            "ratio": 0.675
+        },
+        {
+            "commit": "fba7dcdbfdf903f6a77654d9b63b1e21f2e7f1db",
+            "issueID": "OPENMEETINGS-1719",
+            "commitDate": "2017-10-09T22:47:53+07:00",
+            "added": 14,
+            "deleted": 7,
+            "total": 21,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "cc63ec8a8ff2b44acd21e9b999a16eb37eba1ab2",
+            "issueID": "OPENMEETINGS-1870",
+            "commitDate": "2018-10-18T18:55:20+07:00",
+            "added": 52,
+            "deleted": 60,
+            "total": 112,
+            "ratio": 0.4642857142857143
+        },
+        {
+            "commit": "58cf1917ed21b17fc05d8692efd754c97fe277e4",
+            "issueID": "OPENMEETINGS-1715",
+            "commitDate": "2017-10-04T17:22:15+07:00",
+            "added": 19,
+            "deleted": 13,
+            "total": 32,
+            "ratio": 0.59375
+        },
+        {
+            "commit": "18b239bc2238aa88187b8f34a63a735ecc19ffaf",
+            "issueID": "OPENMEETINGS-1715",
+            "commitDate": "2017-10-04T15:57:15+07:00",
+            "added": 12,
+            "deleted": 6,
+            "total": 18,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "ce85e43d1c45b95ea94425d28c37abcb6a1aa464",
+            "issueID": "OPENMEETINGS-1715",
+            "commitDate": "2017-09-29T14:18:47+07:00",
+            "added": 39,
+            "deleted": 33,
+            "total": 72,
+            "ratio": 0.5416666666666666
+        },
+        {
+            "commit": "2e4f591fce79b18276fd00f78cb3f08a45e89e23",
+            "issueID": "OPENMEETINGS-1715",
+            "commitDate": "2017-09-28T17:18:14+07:00",
+            "added": 23,
+            "deleted": 25,
+            "total": 48,
+            "ratio": 0.4791666666666667
+        },
+        {
+            "commit": "9bb9c36507af5fe122aef5ea27507d2a1cee8a51",
+            "issueID": "OPENMEETINGS-1717",
+            "commitDate": "2017-10-19T18:16:23+07:00",
+            "added": 27,
+            "deleted": 26,
+            "total": 53,
+            "ratio": 0.5094339622641509
+        },
+        {
+            "commit": "91f600601f64bcf1006cb96ae876404b3f041f2a",
+            "issueID": "OPENMEETINGS-1717",
+            "commitDate": "2017-10-10T15:48:50+07:00",
+            "added": 23,
+            "deleted": 27,
+            "total": 50,
+            "ratio": 0.46
+        },
+        {
+            "commit": "10e64c0474b6ab79f55033e52c369851516621d5",
+            "issueID": "OPENMEETINGS-1717",
+            "commitDate": "2017-10-09T13:45:39+07:00",
+            "added": 14,
+            "deleted": 15,
+            "total": 29,
+            "ratio": 0.4827586206896552
+        },
+        {
+            "commit": "39cbb3e35c9400d0cc1783bb4012f402193baffb",
+            "issueID": "OPENMEETINGS-1717",
+            "commitDate": "2017-10-06T18:48:20+07:00",
+            "added": 8,
+            "deleted": 11,
+            "total": 19,
+            "ratio": 0.42105263157894735
+        },
+        {
+            "commit": "efc1d2b8149b9452886574b9a08e12763e694655",
+            "issueID": "OPENMEETINGS-1717",
+            "commitDate": "2017-10-06T17:10:27+07:00",
+            "added": 24,
+            "deleted": 24,
+            "total": 48,
+            "ratio": 0.5
+        },
+        {
+            "commit": "d81de6cee21b14c9718482d977427606b9a75be8",
+            "issueID": "OPENMEETINGS-1952",
+            "commitDate": "2018-10-09T14:15:43+07:00",
+            "added": 4,
+            "deleted": 1,
+            "total": 5,
+            "ratio": 0.8
+        },
+        {
+            "commit": "63000825aa62613c9cec08cae96aae0f6e8446bb",
+            "issueID": "OPENMEETINGS-1952",
+            "commitDate": "2018-10-09T13:59:29+07:00",
+            "added": 50,
+            "deleted": 26,
+            "total": 76,
+            "ratio": 0.6578947368421053
+        },
+        {
+            "commit": "74ee5f22a4f24ec17aa8c9d8aeb233c57af27434",
+            "issueID": "OPENMEETINGS-1952",
+            "commitDate": "2018-10-09T13:24:17+07:00",
+            "added": 80,
+            "deleted": 11,
+            "total": 91,
+            "ratio": 0.8791208791208791
+        },
+        {
+            "commit": "d330858ea2406421142363d964519359a98b6c0a",
+            "issueID": "OPENMEETINGS-1710",
+            "commitDate": "2017-09-22T11:56:22+07:00",
+            "added": 39,
+            "deleted": 44,
+            "total": 83,
+            "ratio": 0.46987951807228917
+        },
+        {
+            "commit": "f169dfb754d6b48c9395ddc0ac53f6ab66657bed",
+            "issueID": "OPENMEETINGS-1953",
+            "commitDate": "2018-10-09T20:22:47+07:00",
+            "added": 0,
+            "deleted": 2,
+            "total": 2,
+            "ratio": 0.0
+        },
+        {
+            "commit": "9f8fb35409213109b8078e28f0f7cd3906aa4b2a",
+            "issueID": "OPENMEETINGS-1711",
+            "commitDate": "2017-09-22T12:02:46+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "a38d35a1121860e3205cb5c6c56f46a6de10fa3d",
+            "issueID": "OPENMEETINGS-1712",
+            "commitDate": "2017-09-27T10:43:58+07:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "de5dd6a6a7b7cdffb652e5606840de8ed98df3cc",
+            "issueID": "OPENMEETINGS-1713",
+            "commitDate": "2017-09-25T12:36:08+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "5ad8b05ef33722429f6adfa2c0068dead2923bd5",
+            "issueID": "OPENMEETINGS-1949",
+            "commitDate": "2018-10-08T11:59:38+07:00",
+            "added": 0,
+            "deleted": 7,
+            "total": 7,
+            "ratio": 0.0
+        },
+        {
+            "commit": "3e27864e1f9d5637f80a7cce868392379db43fdb",
+            "issueID": "OPENMEETINGS-1703",
+            "commitDate": "2017-09-20T21:19:46+07:00",
+            "added": 5,
+            "deleted": 4,
+            "total": 9,
+            "ratio": 0.5555555555555556
+        },
+        {
+            "commit": "b4fe443df00ff600811fd7294f32ec6dd3287730",
+            "issueID": "OPENMEETINGS-1703",
+            "commitDate": "2017-09-15T13:40:00+07:00",
+            "added": 267,
+            "deleted": 585,
+            "total": 852,
+            "ratio": 0.31338028169014087
+        },
+        {
+            "commit": "a3242b37e4de20871d8ee800ef7d042ef9124ecd",
+            "issueID": "OPENMEETINGS-1946",
+            "commitDate": "2018-10-09T10:02:09+07:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "4ff4b71e0efe26f07ee29640e07c8fcb62bf068d",
+            "issueID": "OPENMEETINGS-1946",
+            "commitDate": "2018-10-08T11:37:26+07:00",
+            "added": 6,
+            "deleted": 7,
+            "total": 13,
+            "ratio": 0.46153846153846156
+        },
+        {
+            "commit": "b7e34958537abf571a06a88c116ea9afd95b25b1",
+            "issueID": "OPENMEETINGS-1705",
+            "commitDate": "2017-09-16T00:47:56+07:00",
+            "added": 36,
+            "deleted": 8,
+            "total": 44,
+            "ratio": 0.8181818181818182
+        },
+        {
+            "commit": "46b7fcdaabf66dcd35b08c5cdbc99f29f314016d",
+            "issueID": "OPENMEETINGS-1706",
+            "commitDate": "2017-09-21T11:17:05+07:00",
+            "added": 15,
+            "deleted": 22,
+            "total": 37,
+            "ratio": 0.40540540540540543
+        },
+        {
+            "commit": "83b2790a7cafe2626e652f151e5641019f93f0ce",
+            "issueID": "OPENMEETINGS-1706",
+            "commitDate": "2017-09-21T00:55:13+07:00",
+            "added": 15,
+            "deleted": 33,
+            "total": 48,
+            "ratio": 0.3125
+        },
+        {
+            "commit": "d7fe8012b17721b064fbc014b80928ea66d6f175",
+            "issueID": "OPENMEETINGS-1706",
+            "commitDate": "2017-09-19T16:27:51+07:00",
+            "added": 58,
+            "deleted": 39,
+            "total": 97,
+            "ratio": 0.5979381443298969
+        },
+        {
+            "commit": "f7ba0e96ffbdbf35ada49da4b3d4985d76c88946",
+            "issueID": "OPENMEETINGS-1706",
+            "commitDate": "2017-09-19T15:04:13+07:00",
+            "added": 12,
+            "deleted": 20,
+            "total": 32,
+            "ratio": 0.375
+        },
+        {
+            "commit": "3e315721163a9f28567593a27debe5883eefd93e",
+            "issueID": "OPENMEETINGS-1700",
+            "commitDate": "2017-09-11T18:34:50+07:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "484ffbb9abf302c529611ae395589ebb1d51097e",
+            "issueID": "OPENMEETINGS-1938",
+            "commitDate": "2018-09-29T19:44:26+07:00",
+            "added": 3,
+            "deleted": 3,
+            "total": 6,
+            "ratio": 0.5
+        },
+        {
+            "commit": "bf4547fef400e354eab0a7b21f85f476d557d7b9",
+            "issueID": "OPENMEETINGS-1930",
+            "commitDate": "2018-09-17T23:35:32+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "2a40233b0b79e1356ba58c6ca9a1ff7cfb15bfcf",
+            "issueID": "OPENMEETINGS-1927",
+            "commitDate": "2018-09-05T13:20:56+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "97d664d197a0057d5c7c8883f7cad0ecb5c5dfe4",
+            "issueID": "OPENMEETINGS-1925",
+            "commitDate": "2018-09-03T21:11:37+07:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "0641d7a695c2d476c208e355903da783ec308d6b",
+            "issueID": "OPENMEETINGS-1919",
+            "commitDate": "2018-08-08T11:38:05+07:00",
+            "added": 205,
+            "deleted": 221,
+            "total": 426,
+            "ratio": 0.4812206572769953
+        },
+        {
+            "commit": "1d5b11c1e96d6e20191a5226dac6ad53aea9cdc4",
+            "issueID": "OPENMEETINGS-1911",
+            "commitDate": "2018-07-27T11:10:17+07:00",
+            "added": 12,
+            "deleted": 2,
+            "total": 14,
+            "ratio": 0.8571428571428571
+        },
+        {
+            "commit": "84e497d45d63f630dd48a72c259c6ce6ac1648ed",
+            "issueID": "OPENMEETINGS-1906",
+            "commitDate": "2018-07-18T00:11:05+07:00",
+            "added": 1,
+            "deleted": 4,
+            "total": 5,
+            "ratio": 0.2
+        },
+        {
+            "commit": "b60ada388a5e39c79b596683eb17e4c3e3af2c5b",
+            "issueID": "OPENMEETINGS-1900",
+            "commitDate": "2018-07-16T16:54:43+07:00",
+            "added": 5,
+            "deleted": 3,
+            "total": 8,
+            "ratio": 0.625
+        },
+        {
+            "commit": "15ad811889afa69828c6d80020a34e9aab093a8a",
+            "issueID": "OPENMEETINGS-1900",
+            "commitDate": "2018-06-21T11:10:23+07:00",
+            "added": 4,
+            "deleted": 1,
+            "total": 5,
+            "ratio": 0.8
+        },
+        {
+            "commit": "3fd911be5352c432dc9964f61e727f5ce5b26240",
+            "issueID": "OPENMEETINGS-1900",
+            "commitDate": "2018-06-21T10:47:25+07:00",
+            "added": 5,
+            "deleted": 3,
+            "total": 8,
+            "ratio": 0.625
+        },
+        {
+            "commit": "a4c437507bd01084760a0d2c71ff12236e595a72",
+            "issueID": "OPENMEETINGS-1900",
+            "commitDate": "2018-06-21T10:19:59+07:00",
+            "added": 10,
+            "deleted": 3,
+            "total": 13,
+            "ratio": 0.7692307692307693
+        },
+        {
+            "commit": "3cfc22a8e684b3a6a86969147879599bfd35d8c9",
+            "issueID": "OPENMEETINGS-1295",
+            "commitDate": "2016-01-21T06:55:32+00:00",
+            "added": 9,
+            "deleted": 6,
+            "total": 15,
+            "ratio": 0.6
+        },
+        {
+            "commit": "ff1e376fcd8bce2ba7720e1b3d1e1c0d76cb7df5",
+            "issueID": "OPENMEETINGS-1295",
+            "commitDate": "2016-01-08T13:33:39+00:00",
+            "added": 3,
+            "deleted": 1,
+            "total": 4,
+            "ratio": 0.75
+        },
+        {
+            "commit": "be2c8e450b634992366abab4d82145d8c9d745e1",
+            "issueID": "OPENMEETINGS-1297",
+            "commitDate": "2015-12-13T05:54:37+00:00",
+            "added": 72368,
+            "deleted": 0,
+            "total": 72368,
+            "ratio": 1.0
+        },
+        {
+            "commit": "563588791ebcf1a8618041f6ad7e4b5680bd4810",
+            "issueID": "OPENMEETINGS-533",
+            "commitDate": "2017-07-11T23:41:50+07:00",
+            "added": 16,
+            "deleted": 120,
+            "total": 136,
+            "ratio": 0.11764705882352941
+        },
+        {
+            "commit": "9b25bea0fe682e65a9da2166165605a765f5adf6",
+            "issueID": "OPENMEETINGS-2113",
+            "commitDate": "2019-09-20T19:26:38+07:00",
+            "added": 88,
+            "deleted": 110,
+            "total": 198,
+            "ratio": 0.4444444444444444
+        },
+        {
+            "commit": "440d0c666deda99946aaeba58a1a9d5fe948105b",
+            "issueID": "OPENMEETINGS-2113",
+            "commitDate": "2019-09-20T00:05:38+07:00",
+            "added": 136,
+            "deleted": 14,
+            "total": 150,
+            "ratio": 0.9066666666666666
+        },
+        {
+            "commit": "db07d92deebbdb7ccc517bb6afae659a521edf16",
+            "issueID": "OPENMEETINGS-1267",
+            "commitDate": "2015-12-15T18:09:47+00:00",
+            "added": 64,
+            "deleted": 77,
+            "total": 141,
+            "ratio": 0.45390070921985815
+        },
+        {
+            "commit": "bba48c06df35dc3552d8c4f2c3a165793886c8b7",
+            "issueID": "OPENMEETINGS-2115",
+            "commitDate": "2019-10-05T23:17:02+07:00",
+            "added": 10,
+            "deleted": 3,
+            "total": 13,
+            "ratio": 0.7692307692307693
+        },
+        {
+            "commit": "e373292dcbc1769717a14fb0b178efb99f87576e",
+            "issueID": "OPENMEETINGS-2110",
+            "commitDate": "2019-09-17T00:07:31+07:00",
+            "added": 5,
+            "deleted": 1,
+            "total": 6,
+            "ratio": 0.8333333333333334
+        },
+        {
+            "commit": "80ed9d0bec11eab8b67caf313c52a38b6bd2385f",
+            "issueID": "OPENMEETINGS-2111",
+            "commitDate": "2019-09-13T20:51:16+07:00",
+            "added": 9,
+            "deleted": 5,
+            "total": 14,
+            "ratio": 0.6428571428571429
+        },
+        {
+            "commit": "142245fc91a8728922cd79fd4024903503b12a07",
+            "issueID": "OPENMEETINGS-508",
+            "commitDate": "2016-08-24T03:04:30+00:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "aa88e98decac379766fc3c1efc9a005972908f97",
+            "issueID": "OPENMEETINGS-508",
+            "commitDate": "2016-08-23T09:18:53+00:00",
+            "added": 27,
+            "deleted": 6,
+            "total": 33,
+            "ratio": 0.8181818181818182
+        },
+        {
+            "commit": "7ae26f773f3d6e1421e48b5bf72e33b9899f7687",
+            "issueID": "OPENMEETINGS-2102",
+            "commitDate": "2019-08-21T12:02:34+07:00",
+            "added": 10,
+            "deleted": 1,
+            "total": 11,
+            "ratio": 0.9090909090909091
+        },
+        {
+            "commit": "51315f2909f5d1cf80b984f95559acdac908d95c",
+            "issueID": "OPENMEETINGS-1498",
+            "commitDate": "2016-11-10T04:59:28+00:00",
+            "added": 34,
+            "deleted": 7,
+            "total": 41,
+            "ratio": 0.8292682926829268
+        },
+        {
+            "commit": "6e72c855b3ddccca3327bd0c3a5b467e4e8c8d0f",
+            "issueID": "OPENMEETINGS-1499",
+            "commitDate": "2016-11-03T06:32:10+00:00",
+            "added": 137,
+            "deleted": 129,
+            "total": 266,
+            "ratio": 0.5150375939849624
+        },
+        {
+            "commit": "1c8a9b8f6465963947e7fa054e604da989dd5893",
+            "issueID": "OPENMEETINGS-1494",
+            "commitDate": "2016-11-02T10:01:35+00:00",
+            "added": 5,
+            "deleted": 5,
+            "total": 10,
+            "ratio": 0.5
+        },
+        {
+            "commit": "dea77fd90d99931c7f769c7753a0b3eebf703d54",
+            "issueID": "OPENMEETINGS-1494",
+            "commitDate": "2016-11-02T05:00:55+00:00",
+            "added": 95,
+            "deleted": 97,
+            "total": 192,
+            "ratio": 0.4947916666666667
+        },
+        {
+            "commit": "171ea6b1ba1cc9246e7cd5ee90130d1f7b24808b",
+            "issueID": "OPENMEETINGS-1496",
+            "commitDate": "2016-11-01T08:44:02+00:00",
+            "added": 46,
+            "deleted": 15,
+            "total": 61,
+            "ratio": 0.7540983606557377
+        },
+        {
+            "commit": "0325cf0b6972c7a7fd89f6864604a4f9f5ccbddb",
+            "issueID": "OPENMEETINGS-1492",
+            "commitDate": "2016-11-02T05:16:21+00:00",
+            "added": 8,
+            "deleted": 3,
+            "total": 11,
+            "ratio": 0.7272727272727273
+        },
+        {
+            "commit": "f80511846c61beffe87d8c420d619a2b37f7dd4a",
+            "issueID": "OPENMEETINGS-2106",
+            "commitDate": "2019-09-03T13:41:10+07:00",
+            "added": 14,
+            "deleted": 13,
+            "total": 27,
+            "ratio": 0.5185185185185185
+        },
+        {
+            "commit": "679269520e01343a16293904e6cfaddadeec1c6c",
+            "issueID": "OPENMEETINGS-1486",
+            "commitDate": "2016-10-08T15:16:37+00:00",
+            "added": 3,
+            "deleted": 3,
+            "total": 6,
+            "ratio": 0.5
+        },
+        {
+            "commit": "128691a8e970c3e696ea1530a837408785cc447c",
+            "issueID": "OPENMEETINGS-1487",
+            "commitDate": "2016-10-08T16:37:12+00:00",
+            "added": 7,
+            "deleted": 9,
+            "total": 16,
+            "ratio": 0.4375
+        },
+        {
+            "commit": "307c6c756f9030b50fa097d8f8b3c3066a5bdcff",
+            "issueID": "OPENMEETINGS-1489",
+            "commitDate": "2016-10-11T03:30:14+00:00",
+            "added": 6,
+            "deleted": 5,
+            "total": 11,
+            "ratio": 0.5454545454545454
+        },
+        {
+            "commit": "fb49270c00788cab17fb76a39d35db6d63696a66",
+            "issueID": "OPENMEETINGS-1482",
+            "commitDate": "2016-10-12T05:20:38+00:00",
+            "added": 3,
+            "deleted": 3,
+            "total": 6,
+            "ratio": 0.5
+        },
+        {
+            "commit": "25c738beb09f3135f2be79481c655944f5e802bc",
+            "issueID": "OPENMEETINGS-1482",
+            "commitDate": "2016-10-05T16:44:41+00:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "1b7c9c088485a32f0ce36f4997d8b0c57a66014b",
+            "issueID": "OPENMEETINGS-1483",
+            "commitDate": "2016-10-04T14:07:53+00:00",
+            "added": 2,
+            "deleted": 3,
+            "total": 5,
+            "ratio": 0.4
+        },
+        {
+            "commit": "2f74398f7c149e6a5f59be17e0936e091ae28e72",
+            "issueID": "OPENMEETINGS-1472",
+            "commitDate": "2016-09-22T17:03:47+00:00",
+            "added": 8,
+            "deleted": 13,
+            "total": 21,
+            "ratio": 0.38095238095238093
+        },
+        {
+            "commit": "949e89e565debeb683745898cac9c26df1fba8ec",
+            "issueID": "OPENMEETINGS-1470",
+            "commitDate": "2016-09-22T07:53:47+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "f3a22dc2b8a7e728b1b56102c26917943da1310b",
+            "issueID": "OPENMEETINGS-1470",
+            "commitDate": "2016-09-13T03:00:06+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "0af667596b5379892e52bcc53dfa504a14e0f227",
+            "issueID": "OPENMEETINGS-1479",
+            "commitDate": "2016-10-05T11:01:42+00:00",
+            "added": 5,
+            "deleted": 2,
+            "total": 7,
+            "ratio": 0.7142857142857143
+        },
+        {
+            "commit": "61494f4f001a1596a65ead94c48e53444ec7ace2",
+            "issueID": "OPENMEETINGS-1465",
+            "commitDate": "2016-09-08T16:20:27+00:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "bd41311642dd893c0d95c08d2ae526ff5a436775",
+            "issueID": "OPENMEETINGS-1466",
+            "commitDate": "2016-09-08T04:42:19+00:00",
+            "added": 8,
+            "deleted": 2,
+            "total": 10,
+            "ratio": 0.8
+        },
+        {
+            "commit": "5f87c1d2c327582d3760d1d52a42ea2b621f7568",
+            "issueID": "OPENMEETINGS-1460",
+            "commitDate": "2016-08-28T15:50:28+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "588222e045198d3f508d3c7e2041c738b92972b3",
+            "issueID": "OPENMEETINGS-1460",
+            "commitDate": "2016-08-27T17:59:03+00:00",
+            "added": 10,
+            "deleted": 20,
+            "total": 30,
+            "ratio": 0.3333333333333333
+        },
+        {
+            "commit": "739dcfbe43acba27620c74f24a48fcaeaf3154b8",
+            "issueID": "OPENMEETINGS-1461",
+            "commitDate": "2016-08-30T02:11:44+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "9c7f4752a0b7900cc7bc932b581429c0985be6ee",
+            "issueID": "OPENMEETINGS-1468",
+            "commitDate": "2016-09-16T17:13:06+00:00",
+            "added": 3,
+            "deleted": 2,
+            "total": 5,
+            "ratio": 0.6
+        },
+        {
+            "commit": "b44fd739fb8320ac3599c9342323442319d73edc",
+            "issueID": "OPENMEETINGS-1468",
+            "commitDate": "2016-09-16T08:30:23+00:00",
+            "added": 6,
+            "deleted": 5,
+            "total": 11,
+            "ratio": 0.5454545454545454
+        },
+        {
+            "commit": "3a7b994c6d905ec2215a82a3b9d9f3a3b44aceb4",
+            "issueID": "OPENMEETINGS-1468",
+            "commitDate": "2016-09-16T07:01:29+00:00",
+            "added": 33,
+            "deleted": 15,
+            "total": 48,
+            "ratio": 0.6875
+        },
+        {
+            "commit": "5bb87612c0ec38b64dc5a77bd0aea34660ea9a82",
+            "issueID": "OPENMEETINGS-1468",
+            "commitDate": "2016-09-16T06:14:25+00:00",
+            "added": 32,
+            "deleted": 4,
+            "total": 36,
+            "ratio": 0.8888888888888888
+        },
+        {
+            "commit": "bd7e63817621405a8a1cc3e51171d4975f916e7f",
+            "issueID": "OPENMEETINGS-1468",
+            "commitDate": "2016-09-16T03:05:59+00:00",
+            "added": 92,
+            "deleted": 73,
+            "total": 165,
+            "ratio": 0.5575757575757576
+        },
+        {
+            "commit": "c572d45ba533b08220f50940b09a42b8b8883072",
+            "issueID": "OPENMEETINGS-1468",
+            "commitDate": "2016-09-14T05:24:18+00:00",
+            "added": 757,
+            "deleted": 451,
+            "total": 1208,
+            "ratio": 0.6266556291390728
+        },
+        {
+            "commit": "947aae60dde68eb8a033432fb3b587ccce7b7394",
+            "issueID": "OPENMEETINGS-1697",
+            "commitDate": "2017-09-11T13:13:05+07:00",
+            "added": 16,
+            "deleted": 1,
+            "total": 17,
+            "ratio": 0.9411764705882353
+        },
+        {
+            "commit": "6b63ef8843fe990cb9b269a52c4472b9cc021c83",
+            "issueID": "OPENMEETINGS-1698",
+            "commitDate": "2017-09-11T13:37:37+07:00",
+            "added": 27,
+            "deleted": 22,
+            "total": 49,
+            "ratio": 0.5510204081632653
+        },
+        {
+            "commit": "eb1aa0386c9e8d342cf85c75cd9db4f89d71ad5b",
+            "issueID": "OPENMEETINGS-1693",
+            "commitDate": "2017-09-07T16:10:45+07:00",
+            "added": 126,
+            "deleted": 16,
+            "total": 142,
+            "ratio": 0.8873239436619719
+        },
+        {
+            "commit": "ad3a6bc4a83c311b924eb40e38c7467fbf1282bf",
+            "issueID": "OPENMEETINGS-1690",
+            "commitDate": "2017-09-01T12:53:58+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "5d08356192738ccc8aba4dc489b4132502b7cb29",
+            "issueID": "OPENMEETINGS-1457",
+            "commitDate": "2016-11-17T16:32:06+00:00",
+            "added": 16,
+            "deleted": 7,
+            "total": 23,
+            "ratio": 0.6956521739130435
+        },
+        {
+            "commit": "23ebc615a75562f8fb3ee00f802be645d88bf92d",
+            "issueID": "OPENMEETINGS-1457",
+            "commitDate": "2016-10-15T12:25:33+00:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "2136ec81b99f86c37598e12f25ac05e40e189f1a",
+            "issueID": "OPENMEETINGS-1457",
+            "commitDate": "2016-10-15T05:40:50+00:00",
+            "added": 8,
+            "deleted": 6,
+            "total": 14,
+            "ratio": 0.5714285714285714
+        },
+        {
+            "commit": "6978a0a2b69dde2f1686e3071b93ae6c36a894c5",
+            "issueID": "OPENMEETINGS-1457",
+            "commitDate": "2016-10-14T16:06:51+00:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "85ecf1841c68083d27b28a2401306a2e7e048b43",
+            "issueID": "OPENMEETINGS-1457",
+            "commitDate": "2016-10-14T13:19:59+00:00",
+            "added": 74,
+            "deleted": 78,
+            "total": 152,
+            "ratio": 0.4868421052631579
+        },
+        {
+            "commit": "676bc02f26f6b7435c0f975b8243f6fd7f208cdc",
+            "issueID": "OPENMEETINGS-1457",
+            "commitDate": "2016-09-25T14:43:50+00:00",
+            "added": 55,
+            "deleted": 32,
+            "total": 87,
+            "ratio": 0.632183908045977
+        },
+        {
+            "commit": "226c12510ce45787b5ea9a296b71b90e157c2c32",
+            "issueID": "OPENMEETINGS-1457",
+            "commitDate": "2016-09-18T12:01:46+00:00",
+            "added": 119,
+            "deleted": 379,
+            "total": 498,
+            "ratio": 0.2389558232931727
+        },
+        {
+            "commit": "ba7f9bc8a99d346405a968a29fa2eba4aa51d3e9",
+            "issueID": "OPENMEETINGS-1457",
+            "commitDate": "2016-09-16T16:55:32+00:00",
+            "added": 43,
+            "deleted": 52,
+            "total": 95,
+            "ratio": 0.45263157894736844
+        },
+        {
+            "commit": "80e72852c1da3f8cc8b51d5ad76eb05931e38f48",
+            "issueID": "OPENMEETINGS-1457",
+            "commitDate": "2016-09-11T16:22:08+00:00",
+            "added": 33,
+            "deleted": 29,
+            "total": 62,
+            "ratio": 0.532258064516129
+        },
+        {
+            "commit": "256e5cd11e5af8f422688dfc1d01ac66b370d7a0",
+            "issueID": "OPENMEETINGS-1457",
+            "commitDate": "2016-09-11T04:50:07+00:00",
+            "added": 752,
+            "deleted": 952,
+            "total": 1704,
+            "ratio": 0.4413145539906103
+        },
+        {
+            "commit": "7cdf9ce7ea9198b60eb82bb1cbca3ded40c9c78c",
+            "issueID": "OPENMEETINGS-1442",
+            "commitDate": "2016-08-03T05:45:20+00:00",
+            "added": 12,
+            "deleted": 4,
+            "total": 16,
+            "ratio": 0.75
+        },
+        {
+            "commit": "5b582510eb19ce11154328cdda51faf18de4380a",
+            "issueID": "OPENMEETINGS-1443",
+            "commitDate": "2016-08-04T07:15:35+00:00",
+            "added": 24,
+            "deleted": 20,
+            "total": 44,
+            "ratio": 0.5454545454545454
+        },
+        {
+            "commit": "a6a3103e69da00d337078cc2b5498eed696a562a",
+            "issueID": "OPENMEETINGS-1444",
+            "commitDate": "2016-08-08T03:54:38+00:00",
+            "added": 90,
+            "deleted": 57,
+            "total": 147,
+            "ratio": 0.6122448979591837
+        },
+        {
+            "commit": "788ec1f8cd99b1f4174377f3c65f0032cf6c293e",
+            "issueID": "OPENMEETINGS-1444",
+            "commitDate": "2016-08-06T06:50:11+00:00",
+            "added": 6,
+            "deleted": 5,
+            "total": 11,
+            "ratio": 0.5454545454545454
+        },
+        {
+            "commit": "d2a8e400355b89cb2476793d6329512a3b44eb22",
+            "issueID": "OPENMEETINGS-1682",
+            "commitDate": "2017-08-17T12:39:35+07:00",
+            "added": 470,
+            "deleted": 1143,
+            "total": 1613,
+            "ratio": 0.29138251704897705
+        },
+        {
+            "commit": "c506b121238377104ea48bfeaa88c4cd126a52b7",
+            "issueID": "OPENMEETINGS-1448",
+            "commitDate": "2016-08-16T03:02:54+00:00",
+            "added": 50,
+            "deleted": 2,
+            "total": 52,
+            "ratio": 0.9615384615384616
+        },
+        {
+            "commit": "0eaffd3a24e3a89d16f0c2261bee3efb6daddda2",
+            "issueID": "OPENMEETINGS-1673",
+            "commitDate": "2017-07-24T20:07:10+07:00",
+            "added": 5,
+            "deleted": 2,
+            "total": 7,
+            "ratio": 0.7142857142857143
+        },
+        {
+            "commit": "d8124719d99b8fc37937486db39d7f91bc9b43ad",
+            "issueID": "OPENMEETINGS-1432",
+            "commitDate": "2016-07-07T06:45:22+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "2689ffdd0ef7a261b28df03b0761f252fd4b9358",
+            "issueID": "OPENMEETINGS-1675",
+            "commitDate": "2017-07-27T23:11:10+07:00",
+            "added": 17,
+            "deleted": 16,
+            "total": 33,
+            "ratio": 0.5151515151515151
+        },
+        {
+            "commit": "e17a79a4c0dab2360b21331e7cc60839043fdc90",
+            "issueID": "OPENMEETINGS-1434",
+            "commitDate": "2016-07-11T08:43:52+00:00",
+            "added": 24,
+            "deleted": 18,
+            "total": 42,
+            "ratio": 0.5714285714285714
+        },
+        {
+            "commit": "083fa4fd99482c27e5617a2d2e5034fe1c736951",
+            "issueID": "OPENMEETINGS-1670",
+            "commitDate": "2017-08-08T15:34:02+07:00",
+            "added": 8,
+            "deleted": 11,
+            "total": 19,
+            "ratio": 0.42105263157894735
+        },
+        {
+            "commit": "7efc237020cfae0a107a3ff792f427c4c94c53cc",
+            "issueID": "OPENMEETINGS-1670",
+            "commitDate": "2017-08-08T13:57:19+07:00",
+            "added": 32,
+            "deleted": 18,
+            "total": 50,
+            "ratio": 0.64
+        },
+        {
+            "commit": "9504ae3f4fa331afd8219b47717b8315a4c36254",
+            "issueID": "OPENMEETINGS-1672",
+            "commitDate": "2017-07-24T19:33:04+07:00",
+            "added": 1,
+            "deleted": 2,
+            "total": 3,
+            "ratio": 0.3333333333333333
+        },
+        {
+            "commit": "62413cec6d2039058eebc92a264a54b4e4707377",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-09-01T22:28:00+07:00",
+            "added": 62,
+            "deleted": 75,
+            "total": 137,
+            "ratio": 0.45255474452554745
+        },
+        {
+            "commit": "176f3492b9486ed71d6570a9a918ebe75c37dc4e",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-08T13:00:29+07:00",
+            "added": 19,
+            "deleted": 5,
+            "total": 24,
+            "ratio": 0.7916666666666666
+        },
+        {
+            "commit": "22d0528d65e1904fb4177e74cc7243a883554d24",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-02T16:12:25+07:00",
+            "added": 142,
+            "deleted": 73,
+            "total": 215,
+            "ratio": 0.6604651162790698
+        },
+        {
+            "commit": "0e6b60a88a6181ad28ecc823c00ccc1ddff611bb",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-02T14:13:30+07:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "fa2a81eb92e1bd116ae81840f05874f811a764cf",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-02T10:41:15+07:00",
+            "added": 4,
+            "deleted": 2,
+            "total": 6,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "9b8e1205c201f3ff96856318b18105f2a0edae76",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-02T10:41:04+07:00",
+            "added": 4,
+            "deleted": 2,
+            "total": 6,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "1e298f7790a81a1ee4f2e3a721755ffc4327fec5",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-02T10:10:38+07:00",
+            "added": 29,
+            "deleted": 11,
+            "total": 40,
+            "ratio": 0.725
+        },
+        {
+            "commit": "468ba673effa8e8889e439b20ee905bd6c748310",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-02T10:04:36+07:00",
+            "added": 48,
+            "deleted": 14,
+            "total": 62,
+            "ratio": 0.7741935483870968
+        },
+        {
+            "commit": "a26bd327767ed060e3dfc5caf959ffeee85fb001",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-02T08:28:43+07:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "19b702e3314a13c10bfdf02e36f9212bf881fcfc",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-02T00:31:50+07:00",
+            "added": 1,
+            "deleted": 4,
+            "total": 5,
+            "ratio": 0.2
+        },
+        {
+            "commit": "3c39765d602a1d4ecd2defd687ddb1ea9d5243fd",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-02T00:29:48+07:00",
+            "added": 309,
+            "deleted": 102,
+            "total": 411,
+            "ratio": 0.7518248175182481
+        },
+        {
+            "commit": "13311304f8b6f79b1705361745f2089dece5130f",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-01T23:09:49+07:00",
+            "added": 307,
+            "deleted": 30,
+            "total": 337,
+            "ratio": 0.9109792284866469
+        },
+        {
+            "commit": "1147808ad868962f086d81b6772f91e2cc5a9e7a",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-01T21:08:57+07:00",
+            "added": 95,
+            "deleted": 91,
+            "total": 186,
+            "ratio": 0.510752688172043
+        },
+        {
+            "commit": "a6564236574bfd19f66e588f4c3e68c3c07ac11c",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-01T16:36:23+07:00",
+            "added": 41,
+            "deleted": 31,
+            "total": 72,
+            "ratio": 0.5694444444444444
+        },
+        {
+            "commit": "5607b2a1e34d4b87e886de2536c6ba9b0d64b4f4",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-01T14:56:44+07:00",
+            "added": 13,
+            "deleted": 3,
+            "total": 16,
+            "ratio": 0.8125
+        },
+        {
+            "commit": "1abf6390e44b9a75a44d4fb56535202023236e58",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-08-01T13:17:48+07:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "fb8e1d852671a6f2896c51312834205847c6f592",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-07-31T20:37:41+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "8421f819d72cc25ce62739a83c1288eccdfd1d46",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-07-31T20:31:39+07:00",
+            "added": 44,
+            "deleted": 1,
+            "total": 45,
+            "ratio": 0.9777777777777777
+        },
+        {
+            "commit": "bbcdbf7e044d2fd8ed2d1745cedd2e02c202ee3f",
+            "issueID": "OPENMEETINGS-1677",
+            "commitDate": "2017-07-31T20:30:54+07:00",
+            "added": 450,
+            "deleted": 3394,
+            "total": 3844,
+            "ratio": 0.11706555671175858
+        },
+        {
+            "commit": "68e54afc4ac24b7d54fb7fb6b12f00ae148608ae",
+            "issueID": "OPENMEETINGS-1679",
+            "commitDate": "2017-08-11T12:12:50+07:00",
+            "added": 9,
+            "deleted": 4,
+            "total": 13,
+            "ratio": 0.6923076923076923
+        },
+        {
+            "commit": "0f13f79a768721e3d955c2a2f71a97b5dc0fd5bd",
+            "issueID": "OPENMEETINGS-1438",
+            "commitDate": "2016-07-26T05:34:05+00:00",
+            "added": 12,
+            "deleted": 7,
+            "total": 19,
+            "ratio": 0.631578947368421
+        },
+        {
+            "commit": "17922b6d9afddbadfbb4d7fe759ecb61f14eee62",
+            "issueID": "OPENMEETINGS-1664",
+            "commitDate": "2017-07-26T15:07:08+07:00",
+            "added": 22,
+            "deleted": 11,
+            "total": 33,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "9b05be58775741ff12100ada586be30601bbb55b",
+            "issueID": "OPENMEETINGS-1664",
+            "commitDate": "2017-07-13T16:15:28+07:00",
+            "added": 23,
+            "deleted": 19,
+            "total": 42,
+            "ratio": 0.5476190476190477
+        },
+        {
+            "commit": "9446c1665262df73b134c623a02c14fffd916792",
+            "issueID": "OPENMEETINGS-1664",
+            "commitDate": "2017-07-13T10:32:23+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "21ee0228844d80be77cc33e0b4d5691a1d217ce1",
+            "issueID": "OPENMEETINGS-1664",
+            "commitDate": "2017-07-13T09:46:48+07:00",
+            "added": 15,
+            "deleted": 40,
+            "total": 55,
+            "ratio": 0.2727272727272727
+        },
+        {
+            "commit": "50e6b2b6dc943ff94d1dfe39bd2915aeaa440fad",
+            "issueID": "OPENMEETINGS-1664",
+            "commitDate": "2017-07-13T00:11:56+07:00",
+            "added": 19,
+            "deleted": 8,
+            "total": 27,
+            "ratio": 0.7037037037037037
+        },
+        {
+            "commit": "8f5974fad8ae0f727d79272a5c098292e2ff9401",
+            "issueID": "OPENMEETINGS-1664",
+            "commitDate": "2017-07-11T08:22:56+07:00",
+            "added": 84,
+            "deleted": 40,
+            "total": 124,
+            "ratio": 0.6774193548387096
+        },
+        {
+            "commit": "5b89d22965fe06424e83c1ba98ac9f97803e54ef",
+            "issueID": "OPENMEETINGS-1665",
+            "commitDate": "2017-07-08T23:13:30+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "f17fa5676ebaf0ad3b0660f46f742b079e0fa07b",
+            "issueID": "OPENMEETINGS-1665",
+            "commitDate": "2017-07-08T23:08:55+07:00",
+            "added": 10,
+            "deleted": 4,
+            "total": 14,
+            "ratio": 0.7142857142857143
+        },
+        {
+            "commit": "06d42c9f4a93d4b3b4ab05c3936006a28fca6a1f",
+            "issueID": "OPENMEETINGS-1665",
+            "commitDate": "2017-07-08T21:53:45+07:00",
+            "added": 372,
+            "deleted": 383,
+            "total": 755,
+            "ratio": 0.49271523178807947
+        },
+        {
+            "commit": "6aa0af767e9c672bc4f1458ced6746fcd04ff0d5",
+            "issueID": "OPENMEETINGS-1665",
+            "commitDate": "2017-07-07T10:05:49+07:00",
+            "added": 7,
+            "deleted": 0,
+            "total": 7,
+            "ratio": 1.0
+        },
+        {
+            "commit": "ecb78efdd23b651547c0de7edaf0ba9f737dfb92",
+            "issueID": "OPENMEETINGS-1660",
+            "commitDate": "2017-06-27T23:51:27+07:00",
+            "added": 41,
+            "deleted": 4,
+            "total": 45,
+            "ratio": 0.9111111111111111
+        },
+        {
+            "commit": "76b5fd5eaf3567dfd302d553fdcced74089e1ba8",
+            "issueID": "OPENMEETINGS-1666",
+            "commitDate": "2017-07-07T17:14:06+07:00",
+            "added": 9,
+            "deleted": 10,
+            "total": 19,
+            "ratio": 0.47368421052631576
+        },
+        {
+            "commit": "721dbb23fad512754bce6be02df1b0e1083a5a11",
+            "issueID": "OPENMEETINGS-1668",
+            "commitDate": "2017-07-11T18:57:15+07:00",
+            "added": 73,
+            "deleted": 8,
+            "total": 81,
+            "ratio": 0.9012345679012346
+        },
+        {
+            "commit": "37b6276119f7b4472cae698929404ce13e1a9d08",
+            "issueID": "OPENMEETINGS-1410",
+            "commitDate": "2016-05-26T10:07:09+00:00",
+            "added": 32,
+            "deleted": 8,
+            "total": 40,
+            "ratio": 0.8
+        },
+        {
+            "commit": "9fc3fdcf32f64a050d65b9c3967e1b91bc326960",
+            "issueID": "OPENMEETINGS-1895",
+            "commitDate": "2018-06-01T10:55:34+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "17d5471789d4e22cff578a9f9d5c17be2849e5a8",
+            "issueID": "OPENMEETINGS-1411",
+            "commitDate": "2016-05-27T12:43:41+00:00",
+            "added": 163,
+            "deleted": 255,
+            "total": 418,
+            "ratio": 0.38995215311004783
+        },
+        {
+            "commit": "4c5ee638db422a0a7eb7d4e37a5b64ab36fb5352",
+            "issueID": "OPENMEETINGS-1411",
+            "commitDate": "2016-05-26T12:43:44+00:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "0adc1fecef22f323bbdd44108010860343edbb4d",
+            "issueID": "OPENMEETINGS-1411",
+            "commitDate": "2016-05-26T12:39:27+00:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "7b9c5f59ece76645b58b9d43fe089f4f6d8cdd0d",
+            "issueID": "OPENMEETINGS-1411",
+            "commitDate": "2016-05-26T12:33:52+00:00",
+            "added": 5,
+            "deleted": 2,
+            "total": 7,
+            "ratio": 0.7142857142857143
+        },
+        {
+            "commit": "1f69011e2536f685b98d39ec9426cefbb1710e6a",
+            "issueID": "OPENMEETINGS-1654",
+            "commitDate": "2017-06-19T10:27:58+07:00",
+            "added": 16,
+            "deleted": 6,
+            "total": 22,
+            "ratio": 0.7272727272727273
+        },
+        {
+            "commit": "540c6cb3c3753c1f9442a521c83c153d8feb5c50",
+            "issueID": "OPENMEETINGS-1890",
+            "commitDate": "2018-07-29T14:14:58+07:00",
+            "added": 60,
+            "deleted": 3,
+            "total": 63,
+            "ratio": 0.9523809523809523
+        },
+        {
+            "commit": "12a3ce46b591ff649e861d0d24b933392e7425cb",
+            "issueID": "OPENMEETINGS-1890",
+            "commitDate": "2018-07-27T16:11:57+07:00",
+            "added": 58,
+            "deleted": 34,
+            "total": 92,
+            "ratio": 0.6304347826086957
+        },
+        {
+            "commit": "e3f6f156aa35e16c8593d8c688ca160b1abc01ee",
+            "issueID": "OPENMEETINGS-1417",
+            "commitDate": "2016-07-14T08:45:24+00:00",
+            "added": 23,
+            "deleted": 19,
+            "total": 42,
+            "ratio": 0.5476190476190477
+        },
+        {
+            "commit": "8c36f7b6d2b62621cfa1eceb9243668b181809ad",
+            "issueID": "OPENMEETINGS-1417",
+            "commitDate": "2016-07-14T07:48:32+00:00",
+            "added": 90,
+            "deleted": 116,
+            "total": 206,
+            "ratio": 0.4368932038834951
+        },
+        {
+            "commit": "fe91d2e66cbb88440fbd433490a94bf586b4bdbd",
+            "issueID": "OPENMEETINGS-1655",
+            "commitDate": "2017-06-21T10:46:03+07:00",
+            "added": 0,
+            "deleted": 1,
+            "total": 1,
+            "ratio": 0.0
+        },
+        {
+            "commit": "1ec5e2840b16f7ceb111780d0c27564382a68989",
+            "issueID": "OPENMEETINGS-1655",
+            "commitDate": "2017-06-21T10:43:03+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "f13d98d3c8a2d15fc2365df2b5b53246a122dc1f",
+            "issueID": "OPENMEETINGS-1898",
+            "commitDate": "2018-07-26T18:15:57+07:00",
+            "added": 14,
+            "deleted": 11,
+            "total": 25,
+            "ratio": 0.56
+        },
+        {
+            "commit": "723c8eb4134a85079f15df315573bb26aedca464",
+            "issueID": "OPENMEETINGS-1898",
+            "commitDate": "2018-07-26T17:29:32+07:00",
+            "added": 1,
+            "deleted": 19,
+            "total": 20,
+            "ratio": 0.05
+        },
+        {
+            "commit": "b95be1735e4295aa01b4792753df7f977ea305ee",
+            "issueID": "OPENMEETINGS-1414",
+            "commitDate": "2016-06-02T17:49:34+00:00",
+            "added": 42,
+            "deleted": 1402,
+            "total": 1444,
+            "ratio": 0.029085872576177285
+        },
+        {
+            "commit": "60a416be3801532374e195b2e7d85b36dfbfa39d",
+            "issueID": "OPENMEETINGS-1657",
+            "commitDate": "2017-06-22T12:54:13+07:00",
+            "added": 10,
+            "deleted": 2,
+            "total": 12,
+            "ratio": 0.8333333333333334
+        },
+        {
+            "commit": "7031da6cab24c669f8ee617f362d426d69e3cd77",
+            "issueID": "OPENMEETINGS-1416",
+            "commitDate": "2016-07-17T05:32:35+00:00",
+            "added": 127,
+            "deleted": 280,
+            "total": 407,
+            "ratio": 0.31203931203931207
+        },
+        {
+            "commit": "ec5a913eb3d22996fedd5594a48a6cf10d73e99a",
+            "issueID": "OPENMEETINGS-1882",
+            "commitDate": "2018-07-27T16:35:46+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "5b60f06f7c295e364ab46f6b11b87b17bcb172a4",
+            "issueID": "OPENMEETINGS-1641",
+            "commitDate": "2017-09-16T19:56:17+07:00",
+            "added": 65,
+            "deleted": 28,
+            "total": 93,
+            "ratio": 0.6989247311827957
+        },
+        {
+            "commit": "1a4c483682100f8ca7016a730277a422181df070",
+            "issueID": "OPENMEETINGS-1641",
+            "commitDate": "2017-09-09T01:14:04+07:00",
+            "added": 65,
+            "deleted": 0,
+            "total": 65,
+            "ratio": 1.0
+        },
+        {
+            "commit": "49d0cf36efc6b95ab3324af6d6bd378a50f7af13",
+            "issueID": "OPENMEETINGS-1641",
+            "commitDate": "2017-09-09T00:58:20+07:00",
+            "added": 8,
+            "deleted": 13,
+            "total": 21,
+            "ratio": 0.38095238095238093
+        },
+        {
+            "commit": "81fa4d9cc50758e5baa101e02d0ceb849990793e",
+            "issueID": "OPENMEETINGS-1641",
+            "commitDate": "2017-09-08T19:24:14+07:00",
+            "added": 7,
+            "deleted": 3,
+            "total": 10,
+            "ratio": 0.7
+        },
+        {
+            "commit": "ed0a548606cc9a60d77b5016a0ef59520145463c",
+            "issueID": "OPENMEETINGS-1641",
+            "commitDate": "2017-09-08T14:26:08+07:00",
+            "added": 4,
+            "deleted": 7,
+            "total": 11,
+            "ratio": 0.36363636363636365
+        },
+        {
+            "commit": "b1a44021176200ff8726674dd3fb94a356695770",
+            "issueID": "OPENMEETINGS-1642",
+            "commitDate": "2017-08-07T16:50:43+07:00",
+            "added": 11,
+            "deleted": 0,
+            "total": 11,
+            "ratio": 1.0
+        },
+        {
+            "commit": "c5cc6af49d7be87cf3b12758a2b903335cf8aeaa",
+            "issueID": "OPENMEETINGS-1642",
+            "commitDate": "2017-08-07T13:55:46+07:00",
+            "added": 11,
+            "deleted": 6,
+            "total": 17,
+            "ratio": 0.6470588235294118
+        },
+        {
+            "commit": "c70d82e9358a0fce15539e0513cff664c1c5ba6a",
+            "issueID": "OPENMEETINGS-1642",
+            "commitDate": "2017-08-07T00:32:44+07:00",
+            "added": 12,
+            "deleted": 8,
+            "total": 20,
+            "ratio": 0.6
+        },
+        {
+            "commit": "601ebd27891cfe726e37f3b9a210fb4c30dbbce3",
+            "issueID": "OPENMEETINGS-1642",
+            "commitDate": "2017-08-06T00:36:54+07:00",
+            "added": 57,
+            "deleted": 237,
+            "total": 294,
+            "ratio": 0.19387755102040816
+        },
+        {
+            "commit": "2b96f6c14e9918db9874c3db0e008abb2ea9d892",
+            "issueID": "OPENMEETINGS-1642",
+            "commitDate": "2017-08-04T15:48:28+07:00",
+            "added": 19,
+            "deleted": 4,
+            "total": 23,
+            "ratio": 0.8260869565217391
+        },
+        {
+            "commit": "29274d1ddb1e1e527c276dc7f92835a25b769c83",
+            "issueID": "OPENMEETINGS-1642",
+            "commitDate": "2017-07-04T23:06:55+07:00",
+            "added": 25,
+            "deleted": 16,
+            "total": 41,
+            "ratio": 0.6097560975609756
+        },
+        {
+            "commit": "bcd83c91557641b0bb1a1da7a161dfdf62692dec",
+            "issueID": "OPENMEETINGS-1400",
+            "commitDate": "2016-05-13T12:48:09+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "29837e0392546723cf42ffe84f2b449f3f8d8370",
+            "issueID": "OPENMEETINGS-1885",
+            "commitDate": "2018-05-10T21:34:19+07:00",
+            "added": 3,
+            "deleted": 0,
+            "total": 3,
+            "ratio": 1.0
+        },
+        {
+            "commit": "b4ed57b985d48f1794c71745531d61e54bf851bb",
+            "issueID": "OPENMEETINGS-1643",
+            "commitDate": "2017-08-08T00:22:44+07:00",
+            "added": 35,
+            "deleted": 10,
+            "total": 45,
+            "ratio": 0.7777777777777778
+        },
+        {
+            "commit": "ca56b029b8d34d2e0f11ed35d3623ab4e3632452",
+            "issueID": "OPENMEETINGS-1401",
+            "commitDate": "2017-01-25T02:05:19+00:00",
+            "added": 5,
+            "deleted": 3,
+            "total": 8,
+            "ratio": 0.625
+        },
+        {
+            "commit": "1fb209e95f8224d2c6f98b67a1bc4a9fdf891a6b",
+            "issueID": "OPENMEETINGS-1880",
+            "commitDate": "2018-04-28T21:23:20+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "f2a22dcd7c653a4e1489d0f2445c09bd2c1417ec",
+            "issueID": "OPENMEETINGS-1648",
+            "commitDate": "2017-05-22T14:27:17+07:00",
+            "added": 16,
+            "deleted": 1,
+            "total": 17,
+            "ratio": 0.9411764705882353
+        },
+        {
+            "commit": "7e03ed4b5664e66a736b01a45a9aa90411e5794b",
+            "issueID": "OPENMEETINGS-1406",
+            "commitDate": "2016-05-19T12:06:55+00:00",
+            "added": 7,
+            "deleted": 2,
+            "total": 9,
+            "ratio": 0.7777777777777778
+        },
+        {
+            "commit": "0bf05e68a221151464d2c061760aa069841fb67e",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-09-07T22:51:38+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "f18eb8bdfc6f0cc92bc5b7631420ee49453ac609",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-09-06T00:04:30+07:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "af05e4132dcbce9087661297925be79bbd1fa531",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-09-05T20:58:12+07:00",
+            "added": 128,
+            "deleted": 107,
+            "total": 235,
+            "ratio": 0.5446808510638298
+        },
+        {
+            "commit": "ffe78cd20db0b47770de64911b199d8e5a640e18",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-09-04T23:25:37+07:00",
+            "added": 20,
+            "deleted": 20,
+            "total": 40,
+            "ratio": 0.5
+        },
+        {
+            "commit": "f5de9c6f752b044fa9291c416544edad52378de0",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-09-04T10:48:30+07:00",
+            "added": 6,
+            "deleted": 1,
+            "total": 7,
+            "ratio": 0.8571428571428571
+        },
+        {
+            "commit": "8645ff5456ec7c3d7bf76daf28b107c209a96d24",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-09-03T22:14:17+07:00",
+            "added": 61,
+            "deleted": 2,
+            "total": 63,
+            "ratio": 0.9682539682539683
+        },
+        {
+            "commit": "9989606d6e0975f3057bfc66f919a87f9b90d661",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-09-02T21:21:33+07:00",
+            "added": 36,
+            "deleted": 2,
+            "total": 38,
+            "ratio": 0.9473684210526315
+        },
+        {
+            "commit": "d74a46a35b816b1f3e0724077ce1f90ea3b3f83f",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-09-02T13:00:53+07:00",
+            "added": 34,
+            "deleted": 19,
+            "total": 53,
+            "ratio": 0.6415094339622641
+        },
+        {
+            "commit": "d76d05be704d74f657f34aca4c9da6ccc9f7d1e0",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-09-01T17:10:40+07:00",
+            "added": 105,
+            "deleted": 167,
+            "total": 272,
+            "ratio": 0.3860294117647059
+        },
+        {
+            "commit": "b62b8abcab5f6d5bf2b1327ffb80478a021b5ad0",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-08-29T00:44:51+07:00",
+            "added": 135,
+            "deleted": 47,
+            "total": 182,
+            "ratio": 0.7417582417582418
+        },
+        {
+            "commit": "42c1aad6f8cd664f40f57fb17399b34b5247aaa4",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-08-27T23:06:35+07:00",
+            "added": 19,
+            "deleted": 3,
+            "total": 22,
+            "ratio": 0.8636363636363636
+        },
+        {
+            "commit": "15b17b1da117d66f7222363fa98adac710832390",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-08-26T00:20:22+07:00",
+            "added": 3,
+            "deleted": 3,
+            "total": 6,
+            "ratio": 0.5
+        },
+        {
+            "commit": "75849c0243ed5a8e2f1cc796e803879fe3635190",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-08-25T22:30:47+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "3e2d9d72d9877439255156efd546c099aa1103dd",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-08-25T18:17:56+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "613083228c4f835e9fe71aaf72fd6284470ae9b1",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-08-23T22:41:57+07:00",
+            "added": 26,
+            "deleted": 5,
+            "total": 31,
+            "ratio": 0.8387096774193549
+        },
+        {
+            "commit": "be174911ab38732078cb3e420b1979ad1e240010",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-08-15T12:25:13+07:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "9445be321f8ae4682a0e8eb1ebf7c8b2df46529f",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-08-13T21:12:46+07:00",
+            "added": 16,
+            "deleted": 13,
+            "total": 29,
+            "ratio": 0.5517241379310345
+        },
+        {
+            "commit": "3f0e571baab49cdcf2a829aea3759aaae0d0f82c",
+            "issueID": "OPENMEETINGS-1644",
+            "commitDate": "2017-08-08T11:46:00+07:00",
+            "added": 61,
+            "deleted": 80,
+            "total": 141,
+            "ratio": 0.4326241134751773
+        },
+        {
+            "commit": "8708b9fb362cefc3e9613fdaccbea5044f98d1f4",
+            "issueID": "OPENMEETINGS-1402",
+            "commitDate": "2016-05-18T04:25:44+00:00",
+            "added": 3,
+            "deleted": 1,
+            "total": 4,
+            "ratio": 0.75
+        },
+        {
+            "commit": "790f664e810fddfb891c952860c0dfde5b24d8b5",
+            "issueID": "OPENMEETINGS-1888",
+            "commitDate": "2018-10-24T19:48:26+07:00",
+            "added": 35,
+            "deleted": 8,
+            "total": 43,
+            "ratio": 0.813953488372093
+        },
+        {
+            "commit": "0d32d43df98d52707d211e7afb2dd366fc6fd486",
+            "issueID": "OPENMEETINGS-1646",
+            "commitDate": "2017-07-01T20:15:39+07:00",
+            "added": 89,
+            "deleted": 71,
+            "total": 160,
+            "ratio": 0.55625
+        },
+        {
+            "commit": "85502430e06d32eb59d5c5243d71c3c99eb3521b",
+            "issueID": "OPENMEETINGS-1646",
+            "commitDate": "2017-06-30T20:43:56+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "75d3be4f41b94f54969ac28e9fbf0adb1376ad16",
+            "issueID": "OPENMEETINGS-1646",
+            "commitDate": "2017-06-30T19:29:12+07:00",
+            "added": 51,
+            "deleted": 30,
+            "total": 81,
+            "ratio": 0.6296296296296297
+        },
+        {
+            "commit": "c4474197221728255c3dd5ebf164464a32eb6bee",
+            "issueID": "OPENMEETINGS-1646",
+            "commitDate": "2017-06-30T15:32:44+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "661d6410a3b1dde1044144b9bd2e61e354df82d1",
+            "issueID": "OPENMEETINGS-1646",
+            "commitDate": "2017-06-30T14:57:06+07:00",
+            "added": 53,
+            "deleted": 40,
+            "total": 93,
+            "ratio": 0.5698924731182796
+        },
+        {
+            "commit": "117e8d6bcef5a17efdb4287a20ad6b7e1daf7049",
+            "issueID": "OPENMEETINGS-1646",
+            "commitDate": "2017-06-30T12:46:47+07:00",
+            "added": 1033,
+            "deleted": 1885,
+            "total": 2918,
+            "ratio": 0.35400959561343387
+        },
+        {
+            "commit": "42c33d1be36e9a8fddc9475b837dc669f4bdd35f",
+            "issueID": "OPENMEETINGS-1646",
+            "commitDate": "2017-06-28T17:19:42+07:00",
+            "added": 3,
+            "deleted": 3,
+            "total": 6,
+            "ratio": 0.5
+        },
+        {
+            "commit": "ad7d14ca8a7bf11a802e6fea0f1572c3f91c5a33",
+            "issueID": "OPENMEETINGS-1647",
+            "commitDate": "2017-06-28T23:55:28+07:00",
+            "added": 91,
+            "deleted": 106,
+            "total": 197,
+            "ratio": 0.4619289340101523
+        },
+        {
+            "commit": "1123594551871c32565e1529b8f914787b78af4c",
+            "issueID": "OPENMEETINGS-1630",
+            "commitDate": "2017-04-18T17:51:44+00:00",
+            "added": 72,
+            "deleted": 53,
+            "total": 125,
+            "ratio": 0.576
+        },
+        {
+            "commit": "ccca6bdb3dbf812f6bd23a2ea764e05073a78ebb",
+            "issueID": "OPENMEETINGS-1631",
+            "commitDate": "2017-04-19T03:29:00+00:00",
+            "added": 7,
+            "deleted": 6,
+            "total": 13,
+            "ratio": 0.5384615384615384
+        },
+        {
+            "commit": "cc63ec8a8ff2b44acd21e9b999a16eb37eba1ab2",
+            "issueID": "OPENMEETINGS-1870",
+            "commitDate": "2018-10-18T18:55:20+07:00",
+            "added": 52,
+            "deleted": 60,
+            "total": 112,
+            "ratio": 0.4642857142857143
+        },
+        {
+            "commit": "7b8fa97176b895a0e3bc90eb3dc65e4c0c55717f",
+            "issueID": "OPENMEETINGS-1870",
+            "commitDate": "2018-05-10T21:06:47+07:00",
+            "added": 4,
+            "deleted": 6,
+            "total": 10,
+            "ratio": 0.4
+        },
+        {
+            "commit": "ab81113a03771266f2d076a8c882b0b31c4d0b9d",
+            "issueID": "OPENMEETINGS-1870",
+            "commitDate": "2018-04-25T23:34:09+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "6600a6bf6830bd5b40a66076be04db49b7a7445b",
+            "issueID": "OPENMEETINGS-1638",
+            "commitDate": "2017-08-31T23:34:24+07:00",
+            "added": 56,
+            "deleted": 40,
+            "total": 96,
+            "ratio": 0.5833333333333334
+        },
+        {
+            "commit": "2a08f01b228d4e7c4832eccd009f23f514dab4c4",
+            "issueID": "OPENMEETINGS-1638",
+            "commitDate": "2017-08-31T15:42:44+07:00",
+            "added": 175,
+            "deleted": 298,
+            "total": 473,
+            "ratio": 0.3699788583509514
+        },
+        {
+            "commit": "5fd782fcbf365dbaf54b09a26dd978ba403662c2",
+            "issueID": "OPENMEETINGS-1638",
+            "commitDate": "2017-08-31T00:13:12+07:00",
+            "added": 631,
+            "deleted": 602,
+            "total": 1233,
+            "ratio": 0.5117599351175993
+        },
+        {
+            "commit": "89d5984355e1a802c015d1c4d54d78976830ad41",
+            "issueID": "OPENMEETINGS-1638",
+            "commitDate": "2017-08-29T12:06:39+07:00",
+            "added": 31,
+            "deleted": 28,
+            "total": 59,
+            "ratio": 0.5254237288135594
+        },
+        {
+            "commit": "86b3ccca8c244f5fef155e65432ec1a58e2ba77a",
+            "issueID": "OPENMEETINGS-1638",
+            "commitDate": "2017-08-28T19:19:19+07:00",
+            "added": 47,
+            "deleted": 31,
+            "total": 78,
+            "ratio": 0.6025641025641025
+        },
+        {
+            "commit": "66f3b707b25dce0a32355c97b4ae7bb4bfa4522c",
+            "issueID": "OPENMEETINGS-1638",
+            "commitDate": "2017-08-28T14:53:07+07:00",
+            "added": 159,
+            "deleted": 56,
+            "total": 215,
+            "ratio": 0.7395348837209302
+        },
+        {
+            "commit": "17f3204a8a8aa8553bdf2deb97646537c4a325f7",
+            "issueID": "OPENMEETINGS-1639",
+            "commitDate": "2017-07-11T19:46:36+07:00",
+            "added": 4,
+            "deleted": 1,
+            "total": 5,
+            "ratio": 0.8
+        },
+        {
+            "commit": "dd043e06962a4d3f57290f6bc6414b06b14ed1c2",
+            "issueID": "OPENMEETINGS-1639",
+            "commitDate": "2017-07-02T23:03:34+07:00",
+            "added": 179,
+            "deleted": 29,
+            "total": 208,
+            "ratio": 0.8605769230769231
+        },
+        {
+            "commit": "568c47ac6249f832d629b988f22cae5fefb383db",
+            "issueID": "OPENMEETINGS-1639",
+            "commitDate": "2017-07-02T00:19:04+07:00",
+            "added": 59,
+            "deleted": 40,
+            "total": 99,
+            "ratio": 0.5959595959595959
+        },
+        {
+            "commit": "77eee951186414b77a216b9b47a1215aeb32d02b",
+            "issueID": "OPENMEETINGS-1877",
+            "commitDate": "2018-04-24T21:29:27+07:00",
+            "added": 0,
+            "deleted": 97,
+            "total": 97,
+            "ratio": 0.0
+        },
+        {
+            "commit": "bc5c0798f712b6290f8cb467c3adf7f55e8c04a2",
+            "issueID": "OPENMEETINGS-1878",
+            "commitDate": "2018-04-25T10:31:41+07:00",
+            "added": 49,
+            "deleted": 5,
+            "total": 54,
+            "ratio": 0.9074074074074074
+        },
+        {
+            "commit": "89b00fdc38dbd058a0690c1b80243a894d25b93b",
+            "issueID": "OPENMEETINGS-1620",
+            "commitDate": "2017-04-02T03:39:12+00:00",
+            "added": 4,
+            "deleted": 1,
+            "total": 5,
+            "ratio": 0.8
+        },
+        {
+            "commit": "b63f9dde6a13a6b899cb84d3c611670556b6f8cc",
+            "issueID": "OPENMEETINGS-1624",
+            "commitDate": "2017-04-08T10:25:17+00:00",
+            "added": 40,
+            "deleted": 21,
+            "total": 61,
+            "ratio": 0.6557377049180327
+        },
+        {
+            "commit": "1f02d02b696824b08cf22a8c36952554977b169b",
+            "issueID": "OPENMEETINGS-1850",
+            "commitDate": "2018-03-19T12:51:39+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "52a0e04d14d2fb6d6ef9f77719d80ba5674aebc3",
+            "issueID": "OPENMEETINGS-1850",
+            "commitDate": "2018-03-15T17:28:50+07:00",
+            "added": 4,
+            "deleted": 5,
+            "total": 9,
+            "ratio": 0.4444444444444444
+        },
+        {
+            "commit": "3013951a43f78e73df282450d3a31965af51a0f8",
+            "issueID": "OPENMEETINGS-1850",
+            "commitDate": "2018-03-14T17:15:50+07:00",
+            "added": 179,
+            "deleted": 132,
+            "total": 311,
+            "ratio": 0.5755627009646302
+        },
+        {
+            "commit": "3122b13cdb5a5c5d6d2242e36bf6fea7690eb974",
+            "issueID": "OPENMEETINGS-1850",
+            "commitDate": "2018-03-14T10:56:22+07:00",
+            "added": 20,
+            "deleted": 52,
+            "total": 72,
+            "ratio": 0.2777777777777778
+        },
+        {
+            "commit": "395353df4346c5f0a6d46663c7ee98e75b0db9ce",
+            "issueID": "OPENMEETINGS-1852",
+            "commitDate": "2018-03-16T20:47:39+07:00",
+            "added": 5,
+            "deleted": 5,
+            "total": 10,
+            "ratio": 0.5
+        },
+        {
+            "commit": "d006c543215cb72a1a131f9ffd8a075319d63b8b",
+            "issueID": "OPENMEETINGS-1610",
+            "commitDate": "2017-04-02T14:31:10+00:00",
+            "added": 16,
+            "deleted": 6,
+            "total": 22,
+            "ratio": 0.7272727272727273
+        },
+        {
+            "commit": "cf1a11f0b921528a4e46b4e2ffbd7848cd21a437",
+            "issueID": "OPENMEETINGS-1610",
+            "commitDate": "2017-03-25T08:15:19+00:00",
+            "added": 5,
+            "deleted": 2,
+            "total": 7,
+            "ratio": 0.7142857142857143
+        },
+        {
+            "commit": "21081be30154421aa235c4c66dfbca4b2cb412de",
+            "issueID": "OPENMEETINGS-1857",
+            "commitDate": "2018-03-22T21:12:12+07:00",
+            "added": 1,
+            "deleted": 5,
+            "total": 6,
+            "ratio": 0.16666666666666666
+        },
+        {
+            "commit": "9e93ededc9d06a3886d3b378f030315d999bc3af",
+            "issueID": "OPENMEETINGS-1857",
+            "commitDate": "2018-03-21T21:07:16+07:00",
+            "added": 87,
+            "deleted": 11,
+            "total": 98,
+            "ratio": 0.8877551020408163
+        },
+        {
+            "commit": "27f700e7d70ea42ccd3fb2da29fdd50d6bacca0d",
+            "issueID": "OPENMEETINGS-1853",
+            "commitDate": "2018-03-18T00:17:51+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "3871076b4e088824dc872bacc0530747165803d8",
+            "issueID": "OPENMEETINGS-1611",
+            "commitDate": "2017-03-24T14:17:32+00:00",
+            "added": 21,
+            "deleted": 31,
+            "total": 52,
+            "ratio": 0.40384615384615385
+        },
+        {
+            "commit": "03a660054a72151c1f96b30d988f668f46106785",
+            "issueID": "OPENMEETINGS-1840",
+            "commitDate": "2018-03-08T19:06:27+07:00",
+            "added": 67,
+            "deleted": 52,
+            "total": 119,
+            "ratio": 0.5630252100840336
+        },
+        {
+            "commit": "efd244453b68950a18c2e1baf3a32685809332ab",
+            "issueID": "OPENMEETINGS-1840",
+            "commitDate": "2018-03-08T19:06:09+07:00",
+            "added": 67,
+            "deleted": 52,
+            "total": 119,
+            "ratio": 0.5630252100840336
+        },
+        {
+            "commit": "1551a65f76d25709f984e64416d989ac4213b765",
+            "issueID": "OPENMEETINGS-1841",
+            "commitDate": "2018-03-08T18:34:24+07:00",
+            "added": 116,
+            "deleted": 2,
+            "total": 118,
+            "ratio": 0.9830508474576272
+        },
+        {
+            "commit": "3bfeb10f58d27fe5c82d10c9af1508144158aa4d",
+            "issueID": "OPENMEETINGS-1841",
+            "commitDate": "2018-03-08T18:34:05+07:00",
+            "added": 116,
+            "deleted": 2,
+            "total": 118,
+            "ratio": 0.9830508474576272
+        },
+        {
+            "commit": "306703cbe651e1f9a6dcc5b3bc391a8f966841cb",
+            "issueID": "OPENMEETINGS-1600",
+            "commitDate": "2017-03-14T03:57:55+00:00",
+            "added": 12,
+            "deleted": 9,
+            "total": 21,
+            "ratio": 0.5714285714285714
+        },
+        {
+            "commit": "4edb19da734ebaa19a648d7f5913d917aebe3af2",
+            "issueID": "OPENMEETINGS-1601",
+            "commitDate": "2017-03-14T16:52:27+00:00",
+            "added": 252,
+            "deleted": 298,
+            "total": 550,
+            "ratio": 0.4581818181818182
+        },
+        {
+            "commit": "31e4a064e016e6fe04d7621cf7f44e5497e8a64b",
+            "issueID": "OPENMEETINGS-1603",
+            "commitDate": "2017-03-16T03:45:20+00:00",
+            "added": 6,
+            "deleted": 3,
+            "total": 9,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "ca61e92fb4f511a131a8a32d208e9264195322f4",
+            "issueID": "OPENMEETINGS-1830",
+            "commitDate": "2018-02-13T12:26:46+07:00",
+            "added": 16,
+            "deleted": 15,
+            "total": 31,
+            "ratio": 0.5161290322580645
+        },
+        {
+            "commit": "5d79dbfedafdf1e7a2ced46467b1c02686d67e62",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-04-02T19:20:19+07:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "e1190b6ca3e4005c91f6a018674cbfca6e1cba66",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-30T13:09:01+07:00",
+            "added": 10,
+            "deleted": 5,
+            "total": 15,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "09340dc0bffd6be2b10261d25aeb2c68164b0e3c",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-30T00:33:35+07:00",
+            "added": 14,
+            "deleted": 16,
+            "total": 30,
+            "ratio": 0.4666666666666667
+        },
+        {
+            "commit": "ede1870e5aefbb10e0afad7d4fba242ecef3bd87",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-26T22:53:48+07:00",
+            "added": 16,
+            "deleted": 12,
+            "total": 28,
+            "ratio": 0.5714285714285714
+        },
+        {
+            "commit": "6eac1a67205cd12fa831bd18a120a6ecc7fb0abd",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-26T17:40:28+07:00",
+            "added": 179,
+            "deleted": 32,
+            "total": 211,
+            "ratio": 0.8483412322274881
+        },
+        {
+            "commit": "464575ea5b541248ca0044c74764d685d5e8188d",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-12T22:28:45+07:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "cdcf9b2b958db54de99397ab0990fa75fca055cd",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-11T21:15:16+07:00",
+            "added": 56,
+            "deleted": 23,
+            "total": 79,
+            "ratio": 0.7088607594936709
+        },
+        {
+            "commit": "57f3873fb2326ef68fc9f9b041f1e9b2df2dbf1f",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-11T18:52:55+07:00",
+            "added": 23,
+            "deleted": 13,
+            "total": 36,
+            "ratio": 0.6388888888888888
+        },
+        {
+            "commit": "b0d77a67ea50885145e998066bcbc1645d0bd626",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-08T00:48:48+07:00",
+            "added": 5,
+            "deleted": 6,
+            "total": 11,
+            "ratio": 0.45454545454545453
+        },
+        {
+            "commit": "52f2fa3da9b56932321c6986238390b75e138da2",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-07T22:11:24+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "0024edf13f396b48908b64af5fd0e4174ecc0b78",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-07T22:11:03+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "82951c0ab8237254c88e61e844b0ae7c4f6d8e49",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-07T21:32:31+07:00",
+            "added": 11,
+            "deleted": 10,
+            "total": 21,
+            "ratio": 0.5238095238095238
+        },
+        {
+            "commit": "b200a54fcb1eae62cd7be89e11b32593878c7ade",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-07T21:31:47+07:00",
+            "added": 11,
+            "deleted": 10,
+            "total": 21,
+            "ratio": 0.5238095238095238
+        },
+        {
+            "commit": "21dc9b9560e956457cbc88baf61d887b503ff6ec",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-07T16:04:55+07:00",
+            "added": 11,
+            "deleted": 7,
+            "total": 18,
+            "ratio": 0.6111111111111112
+        },
+        {
+            "commit": "5aa47cbd28c0a5bf03bc0b209c45bdc50f3b125a",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-07T16:04:38+07:00",
+            "added": 11,
+            "deleted": 7,
+            "total": 18,
+            "ratio": 0.6111111111111112
+        },
+        {
+            "commit": "ad0ed6611b85a1cf02149ae3d758a9ef22dd74ae",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-07T14:10:06+07:00",
+            "added": 105,
+            "deleted": 83,
+            "total": 188,
+            "ratio": 0.5585106382978723
+        },
+        {
+            "commit": "1ca1bc545634bc755c48c29556a4d8ea78940d8c",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-07T14:07:12+07:00",
+            "added": 106,
+            "deleted": 84,
+            "total": 190,
+            "ratio": 0.5578947368421052
+        },
+        {
+            "commit": "2390579ee54d625b81e09145e4b7394b50ce73c6",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-07T11:53:32+07:00",
+            "added": 208,
+            "deleted": 181,
+            "total": 389,
+            "ratio": 0.5347043701799485
+        },
+        {
+            "commit": "bb3432587e27c4c4dd92bf788101753e3dfdb224",
+            "issueID": "OPENMEETINGS-1836",
+            "commitDate": "2018-03-07T11:40:08+07:00",
+            "added": 207,
+            "deleted": 174,
+            "total": 381,
+            "ratio": 0.5433070866141733
+        },
+        {
+            "commit": "2b75a6173c6a5b835e28436684f8806a9d675f05",
+            "issueID": "OPENMEETINGS-1837",
+            "commitDate": "2018-03-08T11:12:18+07:00",
+            "added": 11,
+            "deleted": 7,
+            "total": 18,
+            "ratio": 0.6111111111111112
+        },
+        {
+            "commit": "15822a7549bc8b644bd1bb751fde4f14479e7a55",
+            "issueID": "OPENMEETINGS-1837",
+            "commitDate": "2018-03-08T11:11:43+07:00",
+            "added": 23,
+            "deleted": 19,
+            "total": 42,
+            "ratio": 0.5476190476190477
+        },
+        {
+            "commit": "c050c7c3eae2bab3a89e0ae25d519461073e3123",
+            "issueID": "OPENMEETINGS-1832",
+            "commitDate": "2018-02-14T23:52:58+07:00",
+            "added": 11,
+            "deleted": 2,
+            "total": 13,
+            "ratio": 0.8461538461538461
+        },
+        {
+            "commit": "a4269b9ef348a00b208a0da0f48f20ea0ad90878",
+            "issueID": "OPENMEETINGS-1829",
+            "commitDate": "2018-02-09T13:29:30+07:00",
+            "added": 22,
+            "deleted": 12,
+            "total": 34,
+            "ratio": 0.6470588235294118
+        },
+        {
+            "commit": "67a14b9622efdf4f70ad140ca8c863d45d2c8ef0",
+            "issueID": "OPENMEETINGS-1829",
+            "commitDate": "2018-02-09T10:50:57+07:00",
+            "added": 10,
+            "deleted": 8,
+            "total": 18,
+            "ratio": 0.5555555555555556
+        },
+        {
+            "commit": "ec650ba4eb667a606e4b8b9c7fa31e869b6a78d0",
+            "issueID": "OPENMEETINGS-1817",
+            "commitDate": "2018-01-28T10:01:16+07:00",
+            "added": 3,
+            "deleted": 1,
+            "total": 4,
+            "ratio": 0.75
+        },
+        {
+            "commit": "3396e3aca1b03da7891209b34ecefcaaa81a22f6",
+            "issueID": "OPENMEETINGS-1809",
+            "commitDate": "2017-12-29T11:11:40+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "ed420eb5c846b7406442c884e887426ff339db70",
+            "issueID": "OPENMEETINGS-1802",
+            "commitDate": "2017-12-25T00:09:43+07:00",
+            "added": 5,
+            "deleted": 1,
+            "total": 6,
+            "ratio": 0.8333333333333334
+        },
+        {
+            "commit": "02fac132c8b873861f1b30094fbd801ed6c3b9c2",
+            "issueID": "OPENMEETINGS-1801",
+            "commitDate": "2017-12-27T11:29:09+07:00",
+            "added": 0,
+            "deleted": 14,
+            "total": 14,
+            "ratio": 0.0
+        },
+        {
+            "commit": "ba3e110660b9a22a79c012f527799d59bac7e11f",
+            "issueID": "OPENMEETINGS-1801",
+            "commitDate": "2017-12-24T16:41:28+07:00",
+            "added": 15,
+            "deleted": 1,
+            "total": 16,
+            "ratio": 0.9375
+        },
+        {
+            "commit": "0e0c280d6c8c3da551cf045f1d014001433ecc3d",
+            "issueID": "OPENMEETINGS-19",
+            "commitDate": "2017-08-07T16:12:43+07:00",
+            "added": 28,
+            "deleted": 5,
+            "total": 33,
+            "ratio": 0.8484848484848485
+        },
+        {
+            "commit": "01d71d7ccea916ef57dbd60ca7ad46c252b05df4",
+            "issueID": "OPENMEETINGS-2099",
+            "commitDate": "2019-08-14T23:52:11+07:00",
+            "added": 3,
+            "deleted": 0,
+            "total": 3,
+            "ratio": 1.0
+        },
+        {
+            "commit": "812574b8af8c19f7e4c7dc32a57223b438ef28ad",
+            "issueID": "OPENMEETINGS-2098",
+            "commitDate": "2019-08-08T13:21:30+07:00",
+            "added": 0,
+            "deleted": 1,
+            "total": 1,
+            "ratio": 0.0
+        },
+        {
+            "commit": "95d7936271c2c59ee5295ea9bff1e4f5e16ddb4d",
+            "issueID": "OPENMEETINGS-2098",
+            "commitDate": "2019-08-08T13:02:36+07:00",
+            "added": 45,
+            "deleted": 18,
+            "total": 63,
+            "ratio": 0.7142857142857143
+        },
+        {
+            "commit": "c1296354360d393181ecc900164feb64d7c0f65e",
+            "issueID": "OPENMEETINGS-2088",
+            "commitDate": "2019-07-19T11:47:30+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "bf23713acfd7439f820fd536ebe7e50a75e8ac9d",
+            "issueID": "OPENMEETINGS-2088",
+            "commitDate": "2019-07-18T20:45:38+07:00",
+            "added": 12,
+            "deleted": 1,
+            "total": 13,
+            "ratio": 0.9230769230769231
+        },
+        {
+            "commit": "05ec20ab184f4c0341e0f3d2c184731cc8a0effe",
+            "issueID": "OPENMEETINGS-2087",
+            "commitDate": "2019-07-18T22:01:17+07:00",
+            "added": 6,
+            "deleted": 1,
+            "total": 7,
+            "ratio": 0.8571428571428571
+        },
+        {
+            "commit": "6a3e6fa4fd18d48f050d2abfb452ad904a0e7cfc",
+            "issueID": "OPENMEETINGS-2071",
+            "commitDate": "2019-05-24T10:51:31+07:00",
+            "added": 45,
+            "deleted": 41,
+            "total": 86,
+            "ratio": 0.5232558139534884
+        },
+        {
+            "commit": "916beb16b472493c86e982ea3e29eb2ce7a3dd3c",
+            "issueID": "OPENMEETINGS-2071",
+            "commitDate": "2019-05-21T17:14:38+07:00",
+            "added": 17,
+            "deleted": 14,
+            "total": 31,
+            "ratio": 0.5483870967741935
+        },
+        {
+            "commit": "87d47c5948bb62e3705ef509267655cd1d53dbb3",
+            "issueID": "OPENMEETINGS-2070",
+            "commitDate": "2019-05-15T16:52:51+07:00",
+            "added": 59,
+            "deleted": 39,
+            "total": 98,
+            "ratio": 0.6020408163265306
+        },
+        {
+            "commit": "6aa4756dad5d0e8f02f0cec85541e37914fc26f7",
+            "issueID": "OPENMEETINGS-2062",
+            "commitDate": "2019-04-26T16:22:30+07:00",
+            "added": 4,
+            "deleted": 1,
+            "total": 5,
+            "ratio": 0.8
+        },
+        {
+            "commit": "53e87dc2103f92430ac2bac8ec793645668ea5e7",
+            "issueID": "OPENMEETINGS-2062",
+            "commitDate": "2019-04-26T14:16:38+07:00",
+            "added": 8,
+            "deleted": 16,
+            "total": 24,
+            "ratio": 0.3333333333333333
+        },
+        {
+            "commit": "fd6ef3ff5742eb87cd255a944354fb435df5bdf3",
+            "issueID": "OPENMEETINGS-2055",
+            "commitDate": "2019-06-06T12:38:26+07:00",
+            "added": 85,
+            "deleted": 59,
+            "total": 144,
+            "ratio": 0.5902777777777778
+        },
+        {
+            "commit": "2dbf90dfca04a2a0b3cfa076b68bf9645ecbd464",
+            "issueID": "OPENMEETINGS-2055",
+            "commitDate": "2019-05-29T11:22:17+07:00",
+            "added": 8,
+            "deleted": 7,
+            "total": 15,
+            "ratio": 0.5333333333333333
+        },
+        {
+            "commit": "816e337aa6a3ae1039de4daa2ae209b157b1a426",
+            "issueID": "OPENMEETINGS-2055",
+            "commitDate": "2019-04-26T13:25:51+07:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "a04efadd08d23cbc97a32f4d2a5de9951f46cb98",
+            "issueID": "OPENMEETINGS-2055",
+            "commitDate": "2019-04-26T13:21:53+07:00",
+            "added": 3,
+            "deleted": 1,
+            "total": 4,
+            "ratio": 0.75
+        },
+        {
+            "commit": "705cbe340e97e6cc9c60207739d8bdf6787a930b",
+            "issueID": "OPENMEETINGS-2055",
+            "commitDate": "2019-04-11T19:31:06+07:00",
+            "added": 130,
+            "deleted": 60,
+            "total": 190,
+            "ratio": 0.6842105263157895
+        },
+        {
+            "commit": "d249c5b2ca0e4d0c6ae72f4626856434f16d0922",
+            "issueID": "OPENMEETINGS-2054",
+            "commitDate": "2019-04-17T15:04:26+07:00",
+            "added": 21,
+            "deleted": 18,
+            "total": 39,
+            "ratio": 0.5384615384615384
+        },
+        {
+            "commit": "f3cd01be1fd09f97b759c84d5b1d2d9c68ed75b2",
+            "issueID": "OPENMEETINGS-2054",
+            "commitDate": "2019-04-10T21:27:00+07:00",
+            "added": 13,
+            "deleted": 4,
+            "total": 17,
+            "ratio": 0.7647058823529411
+        },
+        {
+            "commit": "4253d29595c59b18f775ebf9c1033dd8b74ddf98",
+            "issueID": "OPENMEETINGS-2057",
+            "commitDate": "2019-04-15T11:44:22+07:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "44d09ae6ebe1a3cca602f87899915b90fd4f1186",
+            "issueID": "OPENMEETINGS-2046",
+            "commitDate": "2019-03-25T13:54:59+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "3513c7f995aeb57c720d00bd0219c8eda6d3fc29",
+            "issueID": "OPENMEETINGS-2035",
+            "commitDate": "2019-03-21T20:45:23+07:00",
+            "added": 4,
+            "deleted": 0,
+            "total": 4,
+            "ratio": 1.0
+        },
+        {
+            "commit": "e06c8a3db2c02d216d0140473601d235e30cc94d",
+            "issueID": "OPENMEETINGS-2035",
+            "commitDate": "2019-03-21T12:39:27+07:00",
+            "added": 24,
+            "deleted": 12,
+            "total": 36,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "399b42fb632210a19f523a282db4e113c9b28d83",
+            "issueID": "OPENMEETINGS-2035",
+            "commitDate": "2019-03-16T13:53:51+07:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "d9ed884e92e6dab53f1ef05d85fbfa472e3f1ac4",
+            "issueID": "OPENMEETINGS-2035",
+            "commitDate": "2019-03-16T13:03:14+07:00",
+            "added": 12,
+            "deleted": 9,
+            "total": 21,
+            "ratio": 0.5714285714285714
+        },
+        {
+            "commit": "80b3cb663e6073bd9e45be1cd2eab3139227c217",
+            "issueID": "OPENMEETINGS-2031",
+            "commitDate": "2019-03-09T21:13:05+07:00",
+            "added": 14,
+            "deleted": 8,
+            "total": 22,
+            "ratio": 0.6363636363636364
+        },
+        {
+            "commit": "02389df1963b9f9bf36afeb0fb566cdd3111be33",
+            "issueID": "OPENMEETINGS-2030",
+            "commitDate": "2019-03-07T22:09:05+07:00",
+            "added": 4,
+            "deleted": 3,
+            "total": 7,
+            "ratio": 0.5714285714285714
+        },
+        {
+            "commit": "27b88477337ebdf2692433debcdcaeccc000f4c1",
+            "issueID": "OPENMEETINGS-2028",
+            "commitDate": "2019-03-07T00:04:45+07:00",
+            "added": 5,
+            "deleted": 15,
+            "total": 20,
+            "ratio": 0.25
+        },
+        {
+            "commit": "1b7c2b2b9691968535a22204d3fc0e471a2fa4aa",
+            "issueID": "OPENMEETINGS-2023",
+            "commitDate": "2019-03-04T22:50:00+07:00",
+            "added": 41,
+            "deleted": 11,
+            "total": 52,
+            "ratio": 0.7884615384615384
+        },
+        {
+            "commit": "5c7a3547b18dc98bf9e9d3ff13bf1cbbfeded566",
+            "issueID": "OPENMEETINGS-2029",
+            "commitDate": "2019-03-15T10:24:19+07:00",
+            "added": 3,
+            "deleted": 1,
+            "total": 4,
+            "ratio": 0.75
+        },
+        {
+            "commit": "d04e3dc6d8cae00905c8ad9de9f3a3f0c81e153a",
+            "issueID": "OPENMEETINGS-2014",
+            "commitDate": "2019-02-11T14:26:18+07:00",
+            "added": 33,
+            "deleted": 19,
+            "total": 52,
+            "ratio": 0.6346153846153846
+        },
+        {
+            "commit": "fa6fc5a4aec2024b05415b5de169cf28ac0c5322",
+            "issueID": "OPENMEETINGS-1399",
+            "commitDate": "2016-05-12T03:19:10+00:00",
+            "added": 15,
+            "deleted": 9,
+            "total": 24,
+            "ratio": 0.625
+        },
+        {
+            "commit": "fbcef2f23f28b8f9033e54523b8280b7dfeaee7a",
+            "issueID": "OPENMEETINGS-1396",
+            "commitDate": "2016-05-10T06:03:26+00:00",
+            "added": 17,
+            "deleted": 12,
+            "total": 29,
+            "ratio": 0.5862068965517241
+        },
+        {
+            "commit": "467faece48c246a191f8c5d9c709b31f91da51a4",
+            "issueID": "OPENMEETINGS-2008",
+            "commitDate": "2019-02-11T15:01:35+07:00",
+            "added": 7,
+            "deleted": 5,
+            "total": 12,
+            "ratio": 0.5833333333333334
+        },
+        {
+            "commit": "092e3b4bf82c732e528d7e105d8c6dc1a6124939",
+            "issueID": "OPENMEETINGS-1384",
+            "commitDate": "2016-05-21T04:57:42+00:00",
+            "added": 5,
+            "deleted": 5,
+            "total": 10,
+            "ratio": 0.5
+        },
+        {
+            "commit": "1e2d813a1367d82d5dce45fac8d6d474c3d6bbda",
+            "issueID": "OPENMEETINGS-1384",
+            "commitDate": "2016-05-20T09:51:08+00:00",
+            "added": 20,
+            "deleted": 11,
+            "total": 31,
+            "ratio": 0.6451612903225806
+        },
+        {
+            "commit": "930694c76a935a80c7990db3fe9afcdda0616055",
+            "issueID": "OPENMEETINGS-1384",
+            "commitDate": "2016-05-17T17:47:05+00:00",
+            "added": 32,
+            "deleted": 38,
+            "total": 70,
+            "ratio": 0.45714285714285713
+        },
+        {
+            "commit": "23ec91e727e0b7196852b2413bf7d4eea25d60bf",
+            "issueID": "OPENMEETINGS-1384",
+            "commitDate": "2016-05-11T17:50:22+00:00",
+            "added": 28,
+            "deleted": 19,
+            "total": 47,
+            "ratio": 0.5957446808510638
+        },
+        {
+            "commit": "343918292c8413d8263b6782b89e40aae75d5bd8",
+            "issueID": "OPENMEETINGS-1384",
+            "commitDate": "2016-04-29T17:04:41+00:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "a8be2eaee66b1e6f7a277ba5abe686dc2811b010",
+            "issueID": "OPENMEETINGS-1380",
+            "commitDate": "2016-04-27T08:48:43+00:00",
+            "added": 10,
+            "deleted": 3,
+            "total": 13,
+            "ratio": 0.7692307692307693
+        },
+        {
+            "commit": "0924cca070b44edf50d5c1c2b4747dd8c0444e24",
+            "issueID": "OPENMEETINGS-1377",
+            "commitDate": "2016-04-22T01:27:27+00:00",
+            "added": 4,
+            "deleted": 2,
+            "total": 6,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "a1b572e3d7073eef5cb195f81333525efc2e343d",
+            "issueID": "OPENMEETINGS-1379",
+            "commitDate": "2016-04-26T14:54:55+00:00",
+            "added": 1,
+            "deleted": 2,
+            "total": 3,
+            "ratio": 0.3333333333333333
+        },
+        {
+            "commit": "18ccc8ee5d93ff6eeebeccafc38a5e9ab45d41b8",
+            "issueID": "OPENMEETINGS-1370",
+            "commitDate": "2016-08-03T16:31:17+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "fbab8891d96f3352c37f1be303d9c9a685aa6847",
+            "issueID": "OPENMEETINGS-1354",
+            "commitDate": "2016-03-24T17:02:47+00:00",
+            "added": 44,
+            "deleted": 154,
+            "total": 198,
+            "ratio": 0.2222222222222222
+        },
+        {
+            "commit": "7e87d34b01c6aad42b0a583d7452b991c71e909e",
+            "issueID": "OPENMEETINGS-1597",
+            "commitDate": "2017-03-09T07:58:13+00:00",
+            "added": 2,
+            "deleted": 4,
+            "total": 6,
+            "ratio": 0.3333333333333333
+        },
+        {
+            "commit": "8ddc1caf8ce15b6caa7e45505c6b18bfdafc6746",
+            "issueID": "OPENMEETINGS-1355",
+            "commitDate": "2016-03-24T17:06:48+00:00",
+            "added": 2,
+            "deleted": 4,
+            "total": 6,
+            "ratio": 0.3333333333333333
+        },
+        {
+            "commit": "a261a9ffe8f4d7e5876060bbef4bd66103796aca",
+            "issueID": "OPENMEETINGS-1598",
+            "commitDate": "2017-03-10T11:57:32+00:00",
+            "added": 3,
+            "deleted": 1,
+            "total": 4,
+            "ratio": 0.75
+        },
+        {
+            "commit": "dad9e4159c2baed4e675c6c634203da0b8d95ea8",
+            "issueID": "OPENMEETINGS-1598",
+            "commitDate": "2017-03-10T10:19:06+00:00",
+            "added": 96,
+            "deleted": 200,
+            "total": 296,
+            "ratio": 0.32432432432432434
+        },
+        {
+            "commit": "3d076451f177b918599545b5db19f8c2cb5b670e",
+            "issueID": "OPENMEETINGS-1599",
+            "commitDate": "2017-03-10T14:33:11+00:00",
+            "added": 146,
+            "deleted": 218,
+            "total": 364,
+            "ratio": 0.4010989010989011
+        },
+        {
+            "commit": "5c95c1ef162ccff6de35595c29a354944e6b5560",
+            "issueID": "OPENMEETINGS-1350",
+            "commitDate": "2016-04-02T05:58:44+00:00",
+            "added": 234,
+            "deleted": 129,
+            "total": 363,
+            "ratio": 0.6446280991735537
+        },
+        {
+            "commit": "b549b609b6eb8231f8ecb6464641613be8bc5434",
+            "issueID": "OPENMEETINGS-1350",
+            "commitDate": "2016-03-31T13:27:59+00:00",
+            "added": 254,
+            "deleted": 352,
+            "total": 606,
+            "ratio": 0.41914191419141916
+        },
+        {
+            "commit": "792120a57352c01ef7fc2ac04f13ab796a4b8b41",
+            "issueID": "OPENMEETINGS-1350",
+            "commitDate": "2016-03-31T11:28:41+00:00",
+            "added": 1,
+            "deleted": 2,
+            "total": 3,
+            "ratio": 0.3333333333333333
+        },
+        {
+            "commit": "4b238a5663df1c4ee67418c66f3a8f27751910a4",
+            "issueID": "OPENMEETINGS-1594",
+            "commitDate": "2017-03-09T03:06:32+00:00",
+            "added": 9,
+            "deleted": 5,
+            "total": 14,
+            "ratio": 0.6428571428571429
+        },
+        {
+            "commit": "3eb0fec6aaf87be7f1c4f8264413f8b486f82cc6",
+            "issueID": "OPENMEETINGS-1595",
+            "commitDate": "2017-03-17T05:07:08+00:00",
+            "added": 11,
+            "deleted": 10,
+            "total": 21,
+            "ratio": 0.5238095238095238
+        },
+        {
+            "commit": "0a410f36e85e1bdbb22ee07050bf35029c20b84f",
+            "issueID": "OPENMEETINGS-1595",
+            "commitDate": "2017-03-17T04:39:40+00:00",
+            "added": 13,
+            "deleted": 7,
+            "total": 20,
+            "ratio": 0.65
+        },
+        {
+            "commit": "200345533f77a3e3599b6c63d357d50e4c1d18b0",
+            "issueID": "OPENMEETINGS-1595",
+            "commitDate": "2017-03-16T04:36:08+00:00",
+            "added": 5,
+            "deleted": 3,
+            "total": 8,
+            "ratio": 0.625
+        },
+        {
+            "commit": "6b95362c73647f2fc611f70076f30c4d05c0a8bd",
+            "issueID": "OPENMEETINGS-1595",
+            "commitDate": "2017-03-10T05:28:43+00:00",
+            "added": 26,
+            "deleted": 5,
+            "total": 31,
+            "ratio": 0.8387096774193549
+        },
+        {
+            "commit": "3b0240ceed0c3f2e97ac65b77683db0a9752ec1c",
+            "issueID": "OPENMEETINGS-1590",
+            "commitDate": "2017-03-06T07:36:09+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "895b40bb492b4e33cec449840f2011825d52916e",
+            "issueID": "OPENMEETINGS-1358",
+            "commitDate": "2016-08-27T06:14:24+00:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "74674af1491c479e839c07e361a21ebb01adb637",
+            "issueID": "OPENMEETINGS-1358",
+            "commitDate": "2016-08-27T04:26:50+00:00",
+            "added": 81,
+            "deleted": 34,
+            "total": 115,
+            "ratio": 0.7043478260869566
+        },
+        {
+            "commit": "228e668c1a17c9959086bddd0d92028158405a28",
+            "issueID": "OPENMEETINGS-1358",
+            "commitDate": "2016-08-17T07:35:54+00:00",
+            "added": 35,
+            "deleted": 15,
+            "total": 50,
+            "ratio": 0.7
+        },
+        {
+            "commit": "6ee7e5a407bdef9aa468bfd924391d0b1d786150",
+            "issueID": "OPENMEETINGS-1358",
+            "commitDate": "2016-05-18T11:31:35+00:00",
+            "added": 1,
+            "deleted": 10,
+            "total": 11,
+            "ratio": 0.09090909090909091
+        },
+        {
+            "commit": "aa19e3fc5bf19c767d5536b4f2a7a64ca46e2efe",
+            "issueID": "OPENMEETINGS-1585",
+            "commitDate": "2017-03-06T08:10:52+00:00",
+            "added": 9,
+            "deleted": 7,
+            "total": 16,
+            "ratio": 0.5625
+        },
+        {
+            "commit": "c882597a613689f7dd4754015639759ded5f8266",
+            "issueID": "OPENMEETINGS-1586",
+            "commitDate": "2017-03-06T05:17:26+00:00",
+            "added": 21,
+            "deleted": 8,
+            "total": 29,
+            "ratio": 0.7241379310344828
+        },
+        {
+            "commit": "c4083548480b4f482f34c419dda825c8f7ea8636",
+            "issueID": "OPENMEETINGS-1344",
+            "commitDate": "2016-04-11T05:55:17+00:00",
+            "added": 4,
+            "deleted": 5,
+            "total": 9,
+            "ratio": 0.4444444444444444
+        },
+        {
+            "commit": "8b3f95e6a326f20fe2edeb29d5d3a7221fb7ca6c",
+            "issueID": "OPENMEETINGS-1344",
+            "commitDate": "2016-04-11T05:38:22+00:00",
+            "added": 331,
+            "deleted": 112,
+            "total": 443,
+            "ratio": 0.7471783295711061
+        },
+        {
+            "commit": "a73ec08ae9a9181598a30a09b80c47790dcb9abd",
+            "issueID": "OPENMEETINGS-1346",
+            "commitDate": "2016-03-11T13:17:04+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "012aa44cf1f5b3a47f94253a0a4776d2f5196f7c",
+            "issueID": "OPENMEETINGS-1581",
+            "commitDate": "2017-03-06T04:04:02+00:00",
+            "added": 38,
+            "deleted": 21,
+            "total": 59,
+            "ratio": 0.6440677966101694
+        },
+        {
+            "commit": "1a243915c4d7909e0cdc75ff479723d73f815239",
+            "issueID": "OPENMEETINGS-1341",
+            "commitDate": "2016-03-07T17:46:08+00:00",
+            "added": 7,
+            "deleted": 5,
+            "total": 12,
+            "ratio": 0.5833333333333334
+        },
+        {
+            "commit": "fc32de07dcc2130c48a55330c82901062f4de6c8",
+            "issueID": "OPENMEETINGS-1342",
+            "commitDate": "2016-04-01T05:03:57+00:00",
+            "added": 3,
+            "deleted": 1,
+            "total": 4,
+            "ratio": 0.75
+        },
+        {
+            "commit": "58871c4f9a28979e7ed753116d85e5b41d7d9e3c",
+            "issueID": "OPENMEETINGS-1347",
+            "commitDate": "2016-03-13T09:15:25+00:00",
+            "added": 5,
+            "deleted": 5,
+            "total": 10,
+            "ratio": 0.5
+        },
+        {
+            "commit": "6136e0c24e6ee03a20058b5ab9df2ef6b030da77",
+            "issueID": "OPENMEETINGS-1348",
+            "commitDate": "2016-03-15T04:22:38+00:00",
+            "added": 47,
+            "deleted": 124,
+            "total": 171,
+            "ratio": 0.27485380116959063
+        },
+        {
+            "commit": "a6fa023214abbed3fde76730d46a34492a316aed",
+            "issueID": "OPENMEETINGS-1349",
+            "commitDate": "2016-04-04T05:45:45+00:00",
+            "added": 177,
+            "deleted": 561,
+            "total": 738,
+            "ratio": 0.23983739837398374
+        },
+        {
+            "commit": "1943c6c7806255abba9d21561d3556fe098b177a",
+            "issueID": "OPENMEETINGS-1574",
+            "commitDate": "2017-03-01T08:45:44+00:00",
+            "added": 4,
+            "deleted": 2,
+            "total": 6,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "ab5c71091ae2ee1e6538632cf6e01ab8298cf2f8",
+            "issueID": "OPENMEETINGS-1574",
+            "commitDate": "2017-02-27T11:50:18+00:00",
+            "added": 59,
+            "deleted": 25,
+            "total": 84,
+            "ratio": 0.7023809523809523
+        },
+        {
+            "commit": "4c27dff64669a7021f0cdc9ec3e0a6e139f6d194",
+            "issueID": "OPENMEETINGS-1574",
+            "commitDate": "2017-02-23T11:11:03+00:00",
+            "added": 9,
+            "deleted": 1,
+            "total": 10,
+            "ratio": 0.9
+        },
+        {
+            "commit": "16ff7fd2f5096d15d30670c6d1eefcc67756192a",
+            "issueID": "OPENMEETINGS-1574",
+            "commitDate": "2017-02-23T04:43:16+00:00",
+            "added": 13,
+            "deleted": 6,
+            "total": 19,
+            "ratio": 0.6842105263157895
+        },
+        {
+            "commit": "a867bcc5e5dd644106c1ec79b0f7d4610b0fa185",
+            "issueID": "OPENMEETINGS-1332",
+            "commitDate": "2016-02-25T07:00:28+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "939e3f86e75b511cd1b5f85f591bc31fb383993d",
+            "issueID": "OPENMEETINGS-1332",
+            "commitDate": "2016-02-11T10:42:33+00:00",
+            "added": 3,
+            "deleted": 3,
+            "total": 6,
+            "ratio": 0.5
+        },
+        {
+            "commit": "8f0316b75f0870d50cab37bcd0d00eea92e0d49b",
+            "issueID": "OPENMEETINGS-1333",
+            "commitDate": "2016-02-25T09:41:30+00:00",
+            "added": 22,
+            "deleted": 29,
+            "total": 51,
+            "ratio": 0.43137254901960786
+        },
+        {
+            "commit": "31cb2204b5d4950e208c7b0a2a75dfe8d0a33101",
+            "issueID": "OPENMEETINGS-1334",
+            "commitDate": "2016-02-25T10:42:02+00:00",
+            "added": 71,
+            "deleted": 6,
+            "total": 77,
+            "ratio": 0.922077922077922
+        },
+        {
+            "commit": "769c062ef510c102ed660b768c0c56a8aaa10bb0",
+            "issueID": "OPENMEETINGS-1577",
+            "commitDate": "2017-02-25T05:49:07+00:00",
+            "added": 7,
+            "deleted": 4,
+            "total": 11,
+            "ratio": 0.6363636363636364
+        },
+        {
+            "commit": "4a152758785eb192d548688dad647d0f90f4d5a8",
+            "issueID": "OPENMEETINGS-1335",
+            "commitDate": "2016-02-25T17:39:04+00:00",
+            "added": 6,
+            "deleted": 3,
+            "total": 9,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "1e44a7d2566efd8e21a908e0b179f5e3f16aa60c",
+            "issueID": "OPENMEETINGS-1570",
+            "commitDate": "2017-02-21T16:26:26+00:00",
+            "added": 28,
+            "deleted": 18,
+            "total": 46,
+            "ratio": 0.6086956521739131
+        },
+        {
+            "commit": "0ca99b81197e603300317b2da94cfbd477e467de",
+            "issueID": "OPENMEETINGS-1570",
+            "commitDate": "2017-02-20T15:43:49+00:00",
+            "added": 91,
+            "deleted": 29,
+            "total": 120,
+            "ratio": 0.7583333333333333
+        },
+        {
+            "commit": "946d2a614a9e58d5161c87fcdde864b0d890a276",
+            "issueID": "OPENMEETINGS-1572",
+            "commitDate": "2017-02-22T06:02:13+00:00",
+            "added": 7,
+            "deleted": 7,
+            "total": 14,
+            "ratio": 0.5
+        },
+        {
+            "commit": "6395e9a1f3b87229c443b91f338a6bc25e6dc343",
+            "issueID": "OPENMEETINGS-1572",
+            "commitDate": "2017-02-21T07:50:05+00:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "c32a7f5aad13399af4239446dc494d2d7e0d2da0",
+            "issueID": "OPENMEETINGS-1330",
+            "commitDate": "2016-04-01T05:18:39+00:00",
+            "added": 9,
+            "deleted": 4,
+            "total": 13,
+            "ratio": 0.6923076923076923
+        },
+        {
+            "commit": "f480188ee1a9ecc1d3dae6e5df47d74c210f3e6b",
+            "issueID": "OPENMEETINGS-1331",
+            "commitDate": "2016-02-11T06:42:47+00:00",
+            "added": 1,
+            "deleted": 2,
+            "total": 3,
+            "ratio": 0.3333333333333333
+        },
+        {
+            "commit": "5968a16a174604ba5d7c2352a7f11950e3845f5d",
+            "issueID": "OPENMEETINGS-1578",
+            "commitDate": "2017-03-06T08:38:28+00:00",
+            "added": 27,
+            "deleted": 15,
+            "total": 42,
+            "ratio": 0.6428571428571429
+        },
+        {
+            "commit": "5fb90b43c86f516fb392d70a598a57a0dd85f13b",
+            "issueID": "OPENMEETINGS-1336",
+            "commitDate": "2016-02-26T12:17:12+00:00",
+            "added": 56,
+            "deleted": 29,
+            "total": 85,
+            "ratio": 0.6588235294117647
+        },
+        {
+            "commit": "4f9bc683d08c659820aac0cc999848257da5ba8d",
+            "issueID": "OPENMEETINGS-1579",
+            "commitDate": "2017-03-01T07:19:54+00:00",
+            "added": 30,
+            "deleted": 8,
+            "total": 38,
+            "ratio": 0.7894736842105263
+        },
+        {
+            "commit": "233dc4c32afa9c2ae80a7038c8397603fbff261a",
+            "issueID": "OPENMEETINGS-1338",
+            "commitDate": "2016-02-28T07:45:04+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "a3d818c68cfac06850b713950a794551fe1299d9",
+            "issueID": "OPENMEETINGS-1339",
+            "commitDate": "2016-03-06T08:01:21+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "fd2a86558155f7d9849d964147b70745910600f7",
+            "issueID": "OPENMEETINGS-1563",
+            "commitDate": "2017-02-17T07:24:43+00:00",
+            "added": 52,
+            "deleted": 5,
+            "total": 57,
+            "ratio": 0.9122807017543859
+        },
+        {
+            "commit": "c43bf7b5aa58e080714e411e9a68ef30999756b4",
+            "issueID": "OPENMEETINGS-1323",
+            "commitDate": "2016-02-09T04:19:15+00:00",
+            "added": 14,
+            "deleted": 4,
+            "total": 18,
+            "ratio": 0.7777777777777778
+        },
+        {
+            "commit": "be09c19e9ebc442e6fa7e8d38490d665b67a7198",
+            "issueID": "OPENMEETINGS-1560",
+            "commitDate": "2017-02-16T13:11:32+00:00",
+            "added": 7,
+            "deleted": 1,
+            "total": 8,
+            "ratio": 0.875
+        },
+        {
+            "commit": "4ef32bd0ce29385ab874db5104950c7f8de45f06",
+            "issueID": "OPENMEETINGS-1560",
+            "commitDate": "2017-02-16T12:58:34+00:00",
+            "added": 178,
+            "deleted": 185,
+            "total": 363,
+            "ratio": 0.4903581267217631
+        },
+        {
+            "commit": "1011202de8484f499cf9e09ae92aeab3af9bd0fe",
+            "issueID": "OPENMEETINGS-1561",
+            "commitDate": "2017-02-16T13:43:24+00:00",
+            "added": 12,
+            "deleted": 13,
+            "total": 25,
+            "ratio": 0.48
+        },
+        {
+            "commit": "b971273d0ae12c0622f379195b13d2c4243e4c50",
+            "issueID": "OPENMEETINGS-1562",
+            "commitDate": "2017-02-16T15:08:02+00:00",
+            "added": 15,
+            "deleted": 23,
+            "total": 38,
+            "ratio": 0.39473684210526316
+        },
+        {
+            "commit": "370f608c637266b9bec3f4d18add85c53f5a097d",
+            "issueID": "OPENMEETINGS-1320",
+            "commitDate": "2016-01-29T05:12:12+00:00",
+            "added": 7,
+            "deleted": 27,
+            "total": 34,
+            "ratio": 0.20588235294117646
+        },
+        {
+            "commit": "2a8bfed7a89681d1200ae77f06bb5155b81f0324",
+            "issueID": "OPENMEETINGS-1329",
+            "commitDate": "2016-02-11T10:50:24+00:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "e32ef0506a178e38e30e0a89ab786a562a373429",
+            "issueID": "OPENMEETINGS-1569",
+            "commitDate": "2017-02-20T09:58:01+00:00",
+            "added": 43,
+            "deleted": 44,
+            "total": 87,
+            "ratio": 0.4942528735632184
+        },
+        {
+            "commit": "c83928a948be51f284502eacb989a3c9015ed3b0",
+            "issueID": "OPENMEETINGS-1310",
+            "commitDate": "2016-01-14T18:12:01+00:00",
+            "added": 0,
+            "deleted": 18,
+            "total": 18,
+            "ratio": 0.0
+        },
+        {
+            "commit": "1167a49c2c93d54684be067681e1e90c3922507e",
+            "issueID": "OPENMEETINGS-1553",
+            "commitDate": "2017-03-15T05:38:48+00:00",
+            "added": 8,
+            "deleted": 2,
+            "total": 10,
+            "ratio": 0.8
+        },
+        {
+            "commit": "c97016e36879de58f27a77b16091c62826fbbbac",
+            "issueID": "OPENMEETINGS-1553",
+            "commitDate": "2017-02-28T05:10:04+00:00",
+            "added": 8,
+            "deleted": 8,
+            "total": 16,
+            "ratio": 0.5
+        },
+        {
+            "commit": "7eb7c572adabde262bd420ac88fb3e48edc11e93",
+            "issueID": "OPENMEETINGS-1553",
+            "commitDate": "2017-02-28T03:39:54+00:00",
+            "added": 7,
+            "deleted": 7,
+            "total": 14,
+            "ratio": 0.5
+        },
+        {
+            "commit": "aed3a95a9fd8e5010e7c02246c632f0e8b89ffa9",
+            "issueID": "OPENMEETINGS-1553",
+            "commitDate": "2017-02-27T09:59:36+00:00",
+            "added": 15,
+            "deleted": 1,
+            "total": 16,
+            "ratio": 0.9375
+        },
+        {
+            "commit": "6265219262978ff260843d45da3a5c9577472583",
+            "issueID": "OPENMEETINGS-1553",
+            "commitDate": "2017-02-17T11:42:07+00:00",
+            "added": 45,
+            "deleted": 17,
+            "total": 62,
+            "ratio": 0.7258064516129032
+        },
+        {
+            "commit": "3a4c259ddac418997767c560635595b0f6f9ca77",
+            "issueID": "OPENMEETINGS-1553",
+            "commitDate": "2017-02-17T07:34:28+00:00",
+            "added": 16,
+            "deleted": 1,
+            "total": 17,
+            "ratio": 0.9411764705882353
+        },
+        {
+            "commit": "a2a2caf02cfcc8bd34f5f505af93012ef5466eaa",
+            "issueID": "OPENMEETINGS-1553",
+            "commitDate": "2017-02-17T05:55:26+00:00",
+            "added": 162,
+            "deleted": 117,
+            "total": 279,
+            "ratio": 0.5806451612903226
+        },
+        {
+            "commit": "0655dd46edb361edf6512755173457fd4ec62ac2",
+            "issueID": "OPENMEETINGS-1553",
+            "commitDate": "2017-02-16T04:15:27+00:00",
+            "added": 558,
+            "deleted": 483,
+            "total": 1041,
+            "ratio": 0.5360230547550432
+        },
+        {
+            "commit": "40c6e8aaa0be65574017278908a16e6cb294fdfd",
+            "issueID": "OPENMEETINGS-1555",
+            "commitDate": "2017-02-15T03:01:20+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "b162575fdb9cdee0a93069643aec5fca2e13893d",
+            "issueID": "OPENMEETINGS-1550",
+            "commitDate": "2017-02-13T16:51:10+00:00",
+            "added": 12,
+            "deleted": 1,
+            "total": 13,
+            "ratio": 0.9230769230769231
+        },
+        {
+            "commit": "bdfbdc80a4b1a07d31d93d89c266474f211e3999",
+            "issueID": "OPENMEETINGS-1799",
+            "commitDate": "2017-12-21T18:28:31+07:00",
+            "added": 17,
+            "deleted": 7,
+            "total": 24,
+            "ratio": 0.7083333333333334
+        },
+        {
+            "commit": "fadfa54be045300ae9aa79c3f457774ccfcd6d7c",
+            "issueID": "OPENMEETINGS-1316",
+            "commitDate": "2016-01-26T09:57:16+00:00",
+            "added": 52,
+            "deleted": 106,
+            "total": 158,
+            "ratio": 0.3291139240506329
+        },
+        {
+            "commit": "b784b54df6c05c9a31716273d432749d362fb4c7",
+            "issueID": "OPENMEETINGS-1317",
+            "commitDate": "2016-01-26T14:31:36+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "14af4ad737a4251e7b02ca321165fcfe4e1fe706",
+            "issueID": "OPENMEETINGS-1541",
+            "commitDate": "2017-01-25T14:55:08+00:00",
+            "added": 19,
+            "deleted": 3,
+            "total": 22,
+            "ratio": 0.8636363636363636
+        },
+        {
+            "commit": "b0f5d57c058415c4eadd2d636534550b51f8cedb",
+            "issueID": "OPENMEETINGS-1541",
+            "commitDate": "2017-01-25T12:02:26+00:00",
+            "added": 111,
+            "deleted": 48,
+            "total": 159,
+            "ratio": 0.6981132075471698
+        },
+        {
+            "commit": "8b4f358c0374ba1ff06b1eada824682720970145",
+            "issueID": "OPENMEETINGS-1541",
+            "commitDate": "2017-01-24T17:38:20+00:00",
+            "added": 190,
+            "deleted": 90,
+            "total": 280,
+            "ratio": 0.6785714285714286
+        },
+        {
+            "commit": "4fe5705f16607b83f3f9cb572d4800663446691c",
+            "issueID": "OPENMEETINGS-1785",
+            "commitDate": "2017-12-22T18:00:32+07:00",
+            "added": 19,
+            "deleted": 2,
+            "total": 21,
+            "ratio": 0.9047619047619048
+        },
+        {
+            "commit": "f517ffbe68327846a5f602f0c473f06e26d3dc89",
+            "issueID": "OPENMEETINGS-1543",
+            "commitDate": "2017-01-27T12:22:21+00:00",
+            "added": 67,
+            "deleted": 2,
+            "total": 69,
+            "ratio": 0.9710144927536232
+        },
+        {
+            "commit": "c4f149fdbf8e4f4ae2b3e9c90641f122dadf3721",
+            "issueID": "OPENMEETINGS-1543",
+            "commitDate": "2017-01-27T10:01:04+00:00",
+            "added": 296,
+            "deleted": 225,
+            "total": 521,
+            "ratio": 0.5681381957773513
+        },
+        {
+            "commit": "54b876080e32356ffaaacc26c5b7931cf19c96c8",
+            "issueID": "OPENMEETINGS-1781",
+            "commitDate": "2017-12-24T22:52:21+07:00",
+            "added": 42,
+            "deleted": 9,
+            "total": 51,
+            "ratio": 0.8235294117647058
+        },
+        {
+            "commit": "5c1a4a0755f3a9dfbffa71f75131bd20005781d8",
+            "issueID": "OPENMEETINGS-1540",
+            "commitDate": "2017-01-21T03:43:30+00:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "3a355d3688002c6f43db0d4027fbe384fe483fee",
+            "issueID": "OPENMEETINGS-1549",
+            "commitDate": "2017-02-05T05:42:50+00:00",
+            "added": 10,
+            "deleted": 8,
+            "total": 18,
+            "ratio": 0.5555555555555556
+        },
+        {
+            "commit": "81ad2c7a8047e95205a4bc612af8acb9c12a1fd4",
+            "issueID": "OPENMEETINGS-1549",
+            "commitDate": "2017-02-04T01:32:59+00:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "06fc6149183df2731ca38e7fe2055f24faaf2e00",
+            "issueID": "OPENMEETINGS-1308",
+            "commitDate": "2016-01-12T07:28:18+00:00",
+            "added": 31,
+            "deleted": 21,
+            "total": 52,
+            "ratio": 0.5961538461538461
+        },
+        {
+            "commit": "c9c32188b79e7292fe4aa59cbe44a345ad05d788",
+            "issueID": "OPENMEETINGS-1308",
+            "commitDate": "2016-01-09T06:54:39+00:00",
+            "added": 36,
+            "deleted": 36,
+            "total": 72,
+            "ratio": 0.5
+        },
+        {
+            "commit": "aa1b0156e70e988faa2765ae89f0513cb0beac6c",
+            "issueID": "OPENMEETINGS-1309",
+            "commitDate": "2016-01-13T11:03:40+00:00",
+            "added": 8,
+            "deleted": 8,
+            "total": 16,
+            "ratio": 0.5
+        },
+        {
+            "commit": "3f117b19dcca4dba7fcbc36e18567336ec9952dd",
+            "issueID": "OPENMEETINGS-1303",
+            "commitDate": "2015-12-22T02:38:22+00:00",
+            "added": 0,
+            "deleted": 2,
+            "total": 2,
+            "ratio": 0.0
+        },
+        {
+            "commit": "0bd1a8f6779b96897b7ee389b9adcd5a403056b1",
+            "issueID": "OPENMEETINGS-1546",
+            "commitDate": "2017-02-02T13:10:43+00:00",
+            "added": 8,
+            "deleted": 8,
+            "total": 16,
+            "ratio": 0.5
+        },
+        {
+            "commit": "5b833281354ba0ca78b67a7b1cdb3273ffa5bd9b",
+            "issueID": "OPENMEETINGS-1546",
+            "commitDate": "2017-02-02T12:18:49+00:00",
+            "added": 3,
+            "deleted": 3,
+            "total": 6,
+            "ratio": 0.5
+        },
+        {
+            "commit": "35e7f1781640a365f2fd210c515b774eb319e1d6",
+            "issueID": "OPENMEETINGS-1546",
+            "commitDate": "2017-02-01T06:33:02+00:00",
+            "added": 7,
+            "deleted": 5,
+            "total": 12,
+            "ratio": 0.5833333333333334
+        },
+        {
+            "commit": "014c313882fdfd445e2cd4e3a140edd9fbdaa3e1",
+            "issueID": "OPENMEETINGS-1546",
+            "commitDate": "2017-01-31T17:37:55+00:00",
+            "added": 3,
+            "deleted": 1,
+            "total": 4,
+            "ratio": 0.75
+        },
+        {
+            "commit": "8afb5c5a9819b079d6bc05ae10c4b3b7ea2d588a",
+            "issueID": "OPENMEETINGS-1547",
+            "commitDate": "2017-03-08T15:04:23+00:00",
+            "added": 17,
+            "deleted": 3,
+            "total": 20,
+            "ratio": 0.85
+        },
+        {
+            "commit": "385be749867c7e30674c94859bdd1bd468987bc6",
+            "issueID": "OPENMEETINGS-1547",
+            "commitDate": "2017-03-08T14:21:52+00:00",
+            "added": 231,
+            "deleted": 259,
+            "total": 490,
+            "ratio": 0.4714285714285714
+        },
+        {
+            "commit": "d331d2249237911b5fbf248e8056be5c9315228a",
+            "issueID": "OPENMEETINGS-1548",
+            "commitDate": "2017-02-05T15:46:17+00:00",
+            "added": 429,
+            "deleted": 348,
+            "total": 777,
+            "ratio": 0.5521235521235521
+        },
+        {
+            "commit": "2031d540ffa80ddfac20968d39c769dfd8331a1d",
+            "issueID": "OPENMEETINGS-1548",
+            "commitDate": "2017-02-02T10:03:15+00:00",
+            "added": 41,
+            "deleted": 11,
+            "total": 52,
+            "ratio": 0.7884615384615384
+        },
+        {
+            "commit": "cff9ca0cf063909afa275b314d63029c4d2d9d77",
+            "issueID": "OPENMEETINGS-1772",
+            "commitDate": "2017-11-26T23:54:50+07:00",
+            "added": 10,
+            "deleted": 4,
+            "total": 14,
+            "ratio": 0.7142857142857143
+        },
+        {
+            "commit": "ad8a59d7ba992204453bbfc4c4adfbd88f379543",
+            "issueID": "OPENMEETINGS-1773",
+            "commitDate": "2018-01-12T12:59:21+07:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "f7cad78647f9900baba39912c233798083217700",
+            "issueID": "OPENMEETINGS-1773",
+            "commitDate": "2018-01-12T12:38:40+07:00",
+            "added": 20,
+            "deleted": 9,
+            "total": 29,
+            "ratio": 0.6896551724137931
+        },
+        {
+            "commit": "949269da1f92c14b3e6a0579130434fdaf790cef",
+            "issueID": "OPENMEETINGS-1773",
+            "commitDate": "2018-01-11T22:14:58+07:00",
+            "added": 4,
+            "deleted": 1,
+            "total": 5,
+            "ratio": 0.8
+        },
+        {
+            "commit": "8c3ea9d79364e739e28cf30f99bb35e6ac5cc870",
+            "issueID": "OPENMEETINGS-1773",
+            "commitDate": "2017-11-29T21:44:10+07:00",
+            "added": 9,
+            "deleted": 1,
+            "total": 10,
+            "ratio": 0.9
+        },
+        {
+            "commit": "1a4b4f34ba119d969485d06b4dc83c70dcaecbe7",
+            "issueID": "OPENMEETINGS-1532",
+            "commitDate": "2017-01-18T18:16:12+00:00",
+            "added": 45,
+            "deleted": 40,
+            "total": 85,
+            "ratio": 0.5294117647058824
+        },
+        {
+            "commit": "3b274b6fa89f2f50f4ab8d337389c7e2b6c5a521",
+            "issueID": "OPENMEETINGS-1775",
+            "commitDate": "2017-12-25T20:36:19+07:00",
+            "added": 6,
+            "deleted": 2,
+            "total": 8,
+            "ratio": 0.75
+        },
+        {
+            "commit": "809635129be459c2f48352f0129aaa5f8c7398bf",
+            "issueID": "OPENMEETINGS-1533",
+            "commitDate": "2017-01-23T14:50:48+00:00",
+            "added": 13,
+            "deleted": 3,
+            "total": 16,
+            "ratio": 0.8125
+        },
+        {
+            "commit": "d73089288b5bd77edb178d69ef59668d361af1f6",
+            "issueID": "OPENMEETINGS-1533",
+            "commitDate": "2017-01-20T16:45:00+00:00",
+            "added": 236,
+            "deleted": 16,
+            "total": 252,
+            "ratio": 0.9365079365079365
+        },
+        {
+            "commit": "a397fda22d3892d1ee745d2f2f096c23972b1809",
+            "issueID": "OPENMEETINGS-1533",
+            "commitDate": "2017-01-20T05:53:40+00:00",
+            "added": 12,
+            "deleted": 3,
+            "total": 15,
+            "ratio": 0.8
+        },
+        {
+            "commit": "a0d31fca901ef02eb0f5bf39bd846609fe3ec8a6",
+            "issueID": "OPENMEETINGS-1533",
+            "commitDate": "2017-01-20T03:23:09+00:00",
+            "added": 0,
+            "deleted": 12,
+            "total": 12,
+            "ratio": 0.0
+        },
+        {
+            "commit": "7ec135dd631def0038e55ab89f92ac5512ce2e2b",
+            "issueID": "OPENMEETINGS-1533",
+            "commitDate": "2017-01-20T03:01:21+00:00",
+            "added": 104,
+            "deleted": 12,
+            "total": 116,
+            "ratio": 0.896551724137931
+        },
+        {
+            "commit": "ea11de1fcd42f7e47845a2fa043bf59dde74cce9",
+            "issueID": "OPENMEETINGS-1533",
+            "commitDate": "2017-01-19T05:41:22+00:00",
+            "added": 162,
+            "deleted": 45,
+            "total": 207,
+            "ratio": 0.782608695652174
+        },
+        {
+            "commit": "b5ee48604fdfc6dd8a01c19508951565c9b1ad51",
+            "issueID": "OPENMEETINGS-1770",
+            "commitDate": "2017-11-24T18:20:43+07:00",
+            "added": 37,
+            "deleted": 18,
+            "total": 55,
+            "ratio": 0.6727272727272727
+        },
+        {
+            "commit": "d2e7f5f287fba851443c7a7904def94e73cb4194",
+            "issueID": "OPENMEETINGS-1539",
+            "commitDate": "2017-01-20T12:40:36+00:00",
+            "added": 7,
+            "deleted": 1,
+            "total": 8,
+            "ratio": 0.875
+        },
+        {
+            "commit": "c55bd6c52265e82cd643713dda9fcae9c76c1c11",
+            "issueID": "OPENMEETINGS-1776",
+            "commitDate": "2017-12-10T16:37:19+07:00",
+            "added": 17,
+            "deleted": 10,
+            "total": 27,
+            "ratio": 0.6296296296296297
+        },
+        {
+            "commit": "e43201c839367d39f57f15f00d53f44dbe7e4200",
+            "issueID": "OPENMEETINGS-1534",
+            "commitDate": "2017-01-19T14:54:34+00:00",
+            "added": 213,
+            "deleted": 156,
+            "total": 369,
+            "ratio": 0.5772357723577236
+        },
+        {
+            "commit": "de88a32cea33fa7428db8ede7d39c736b417110d",
+            "issueID": "OPENMEETINGS-1535",
+            "commitDate": "2017-01-19T14:45:20+00:00",
+            "added": 247,
+            "deleted": 72,
+            "total": 319,
+            "ratio": 0.774294670846395
+        },
+        {
+            "commit": "e18e84ef9d57738c836718aab2502c77ecd16fbc",
+            "issueID": "OPENMEETINGS-1779",
+            "commitDate": "2017-12-09T15:46:06+07:00",
+            "added": 4,
+            "deleted": 2,
+            "total": 6,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "6683e8b21ab7829aaa55e0f92cbd33ba4aa64e2d",
+            "issueID": "OPENMEETINGS-1761",
+            "commitDate": "2017-11-18T18:55:05+07:00",
+            "added": 84,
+            "deleted": 488,
+            "total": 572,
+            "ratio": 0.14685314685314685
+        },
+        {
+            "commit": "ac49e09cc42ba1a23c6aa828b074fb80c3b0574c",
+            "issueID": "OPENMEETINGS-1762",
+            "commitDate": "2017-11-19T15:40:49+07:00",
+            "added": 4,
+            "deleted": 2,
+            "total": 6,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "e9d7cbe25dea62031ad71b2c14ce225b65e1223d",
+            "issueID": "OPENMEETINGS-1521",
+            "commitDate": "2016-12-19T14:33:32+00:00",
+            "added": 15,
+            "deleted": 12,
+            "total": 27,
+            "ratio": 0.5555555555555556
+        },
+        {
+            "commit": "27bb1b7832aa17bad0666755b08b3f76e455284e",
+            "issueID": "OPENMEETINGS-1769",
+            "commitDate": "2017-12-02T14:26:17+07:00",
+            "added": 130,
+            "deleted": 148,
+            "total": 278,
+            "ratio": 0.4676258992805755
+        },
+        {
+            "commit": "1dac652bd8cfc0632ed2aabe1d9db2d6112b1008",
+            "issueID": "OPENMEETINGS-1769",
+            "commitDate": "2017-11-30T13:47:42+07:00",
+            "added": 206,
+            "deleted": 52,
+            "total": 258,
+            "ratio": 0.7984496124031008
+        },
+        {
+            "commit": "53747e5486a1a6600fdcd7665d40c79af9734742",
+            "issueID": "OPENMEETINGS-1769",
+            "commitDate": "2017-11-30T00:09:39+07:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "fc50ade045c477e6f84c215fdbc52692df067ebe",
+            "issueID": "OPENMEETINGS-1769",
+            "commitDate": "2017-11-29T13:34:51+07:00",
+            "added": 6,
+            "deleted": 1,
+            "total": 7,
+            "ratio": 0.8571428571428571
+        },
+        {
+            "commit": "8a3db428c63b6ec02be875c3e6525c76a14fdc0c",
+            "issueID": "OPENMEETINGS-1769",
+            "commitDate": "2017-11-29T13:31:54+07:00",
+            "added": 186,
+            "deleted": 122,
+            "total": 308,
+            "ratio": 0.6038961038961039
+        },
+        {
+            "commit": "770b970e95fce53775040d690c0e665f7df68fe1",
+            "issueID": "OPENMEETINGS-1765",
+            "commitDate": "2017-11-20T16:19:43+07:00",
+            "added": 5,
+            "deleted": 8,
+            "total": 13,
+            "ratio": 0.38461538461538464
+        },
+        {
+            "commit": "c5bd5f4da7fb2d0aacb39e7333850943bcdcb5bf",
+            "issueID": "OPENMEETINGS-1766",
+            "commitDate": "2017-11-20T19:03:16+07:00",
+            "added": 16,
+            "deleted": 3,
+            "total": 19,
+            "ratio": 0.8421052631578947
+        },
+        {
+            "commit": "8ddb2df3c6ee7a4c7aa80cf764c736d6d8d2c3bf",
+            "issueID": "OPENMEETINGS-1524",
+            "commitDate": "2016-12-22T10:17:22+00:00",
+            "added": 3,
+            "deleted": 1,
+            "total": 4,
+            "ratio": 0.75
+        },
+        {
+            "commit": "987ca57cf48544990975ffcaa64e8afd2e812bc4",
+            "issueID": "OPENMEETINGS-1751",
+            "commitDate": "2017-11-10T11:33:18+07:00",
+            "added": 2,
+            "deleted": 1,
+            "total": 3,
+            "ratio": 0.6666666666666666
+        },
+        {
+            "commit": "3296b3848f9499e1afc46ef2d163c320b3969c1c",
+            "issueID": "OPENMEETINGS-1511",
+            "commitDate": "2016-12-02T13:32:33+00:00",
+            "added": 19,
+            "deleted": 23,
+            "total": 42,
+            "ratio": 0.4523809523809524
+        },
+        {
+            "commit": "8380e4da65a9d38bfe55aa4f413b43318df0aed0",
+            "issueID": "OPENMEETINGS-1990",
+            "commitDate": "2019-02-11T17:39:59+07:00",
+            "added": 277,
+            "deleted": 134,
+            "total": 411,
+            "ratio": 0.6739659367396593
+        },
+        {
+            "commit": "ef5407e833852e6fe3c22d344f6c51f93351df8d",
+            "issueID": "OPENMEETINGS-1758",
+            "commitDate": "2017-11-17T14:18:04+07:00",
+            "added": 2,
+            "deleted": 2,
+            "total": 4,
+            "ratio": 0.5
+        },
+        {
+            "commit": "ed2ef5d3b853fa9dccfbfd4c9922c426c37923fe",
+            "issueID": "OPENMEETINGS-1758",
+            "commitDate": "2017-11-17T10:49:28+07:00",
+            "added": 10,
+            "deleted": 14,
+            "total": 24,
+            "ratio": 0.4166666666666667
+        },
+        {
+            "commit": "56616a63a575c0bbab073e955e4bb3b743992740",
+            "issueID": "OPENMEETINGS-1759",
+            "commitDate": "2017-11-18T20:45:47+07:00",
+            "added": 11,
+            "deleted": 7,
+            "total": 18,
+            "ratio": 0.6111111111111112
+        },
+        {
+            "commit": "34abc27d8e2b1cbfc31b97b634349769c05ef8d3",
+            "issueID": "OPENMEETINGS-1518",
+            "commitDate": "2016-12-09T17:15:02+00:00",
+            "added": 0,
+            "deleted": 2,
+            "total": 2,
+            "ratio": 0.0
+        },
+        {
+            "commit": "70a3134f9549493eec3cb356601b42435e19a368",
+            "issueID": "OPENMEETINGS-1518",
+            "commitDate": "2016-12-09T15:36:52+00:00",
+            "added": 50,
+            "deleted": 163,
+            "total": 213,
+            "ratio": 0.2347417840375587
+        },
+        {
+            "commit": "06131f4a98bddc783676a9adae9bc3eb92d87dec",
+            "issueID": "OPENMEETINGS-1518",
+            "commitDate": "2016-12-08T04:31:20+00:00",
+            "added": 1,
+            "deleted": 96,
+            "total": 97,
+            "ratio": 0.010309278350515464
+        },
+        {
+            "commit": "6a2772f5656fc3c52d50e8a73b90d8dacb671ead",
+            "issueID": "OPENMEETINGS-1518",
+            "commitDate": "2016-12-07T05:44:52+00:00",
+            "added": 8,
+            "deleted": 83,
+            "total": 91,
+            "ratio": 0.08791208791208792
+        },
+        {
+            "commit": "4e1a840662d95c48cdfc1f97cfabef507210ad14",
+            "issueID": "OPENMEETINGS-1513",
+            "commitDate": "2016-12-08T04:40:26+00:00",
+            "added": 5,
+            "deleted": 0,
+            "total": 5,
+            "ratio": 1.0
+        },
+        {
+            "commit": "255c5f91cf20bfbd8631cbcf010d0076f8ba6735",
+            "issueID": "OPENMEETINGS-1513",
+            "commitDate": "2016-12-06T13:57:32+00:00",
+            "added": 81,
+            "deleted": 77,
+            "total": 158,
+            "ratio": 0.5126582278481012
+        },
+        {
+            "commit": "7a05811f92218a5cf31137056c30ea6c7ac0fb6f",
+            "issueID": "OPENMEETINGS-1513",
+            "commitDate": "2016-12-01T04:09:12+00:00",
+            "added": 134,
+            "deleted": 140,
+            "total": 274,
+            "ratio": 0.48905109489051096
+        },
+        {
+            "commit": "f05c4b0fcf6d003e5f157171da51d10ddb959155",
+            "issueID": "OPENMEETINGS-1513",
+            "commitDate": "2016-11-30T08:15:21+00:00",
+            "added": 117,
+            "deleted": 7,
+            "total": 124,
+            "ratio": 0.9435483870967742
+        },
+        {
+            "commit": "c28ae3823c6eec5b19c85a2bd8aff299a227cda2",
+            "issueID": "OPENMEETINGS-1756",
+            "commitDate": "2017-11-20T23:38:04+07:00",
+            "added": 127,
+            "deleted": 79,
+            "total": 206,
+            "ratio": 0.616504854368932
+        },
+        {
+            "commit": "99fc6c864f9cd372aa0e17819e296e79ac7f1c6e",
+            "issueID": "OPENMEETINGS-1756",
+            "commitDate": "2017-11-20T21:18:01+07:00",
+            "added": 19,
+            "deleted": 8,
+            "total": 27,
+            "ratio": 0.7037037037037037
+        },
+        {
+            "commit": "76cf0e507f0fd52c8559fdc73d60d5354306864f",
+            "issueID": "OPENMEETINGS-1756",
+            "commitDate": "2017-11-15T14:01:07+07:00",
+            "added": 11,
+            "deleted": 5,
+            "total": 16,
+            "ratio": 0.6875
+        },
+        {
+            "commit": "fba4e78ba01e110b808e41bd4f54a68c442f086c",
+            "issueID": "OPENMEETINGS-1514",
+            "commitDate": "2016-12-01T08:14:19+00:00",
+            "added": 15,
+            "deleted": 1,
+            "total": 16,
+            "ratio": 0.9375
+        },
+        {
+            "commit": "3d58d78a717252f1f6c5612e89ad5d1050617ec6",
+            "issueID": "OPENMEETINGS-1757",
+            "commitDate": "2017-11-16T11:30:09+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "c33f9134e6c7b238a2876ed858cada0d93eef9a9",
+            "issueID": "OPENMEETINGS-1981",
+            "commitDate": "2019-01-25T17:36:18+07:00",
+            "added": 10,
+            "deleted": 0,
+            "total": 10,
+            "ratio": 1.0
+        },
+        {
+            "commit": "0806f8dd2aa34bd4c3ea7ddac1f7e9ba3c5c870d",
+            "issueID": "OPENMEETINGS-1981",
+            "commitDate": "2019-01-25T16:45:08+07:00",
+            "added": 5,
+            "deleted": 0,
+            "total": 5,
+            "ratio": 1.0
+        },
+        {
+            "commit": "f2b0273e270ecf8fbbd79e23e2f4a74c56dbb009",
+            "issueID": "OPENMEETINGS-1983",
+            "commitDate": "2019-01-31T22:33:53+07:00",
+            "added": 51,
+            "deleted": 25,
+            "total": 76,
+            "ratio": 0.6710526315789473
+        },
+        {
+            "commit": "c5c18412897879017fad279a19f2f1d5b1c9bcf9",
+            "issueID": "OPENMEETINGS-1980",
+            "commitDate": "2019-01-19T20:59:37+07:00",
+            "added": 23,
+            "deleted": 10,
+            "total": 33,
+            "ratio": 0.696969696969697
+        },
+        {
+            "commit": "a3816ac688c636880a2e7c4f94cbd7964ee3769f",
+            "issueID": "OPENMEETINGS-1509",
+            "commitDate": "2016-11-17T03:41:48+00:00",
+            "added": 5,
+            "deleted": 7,
+            "total": 12,
+            "ratio": 0.4166666666666667
+        },
+        {
+            "commit": "8c04ed41b2267f7d7e0cb71b35c4b689abf19cfb",
+            "issueID": "OPENMEETINGS-1747",
+            "commitDate": "2017-11-08T16:48:06+07:00",
+            "added": 3,
+            "deleted": 3,
+            "total": 6,
+            "ratio": 0.5
+        },
+        {
+            "commit": "95d1d87a57265f1a6dc465aea324167e723d43d6",
+            "issueID": "OPENMEETINGS-1747",
+            "commitDate": "2017-11-08T16:42:35+07:00",
+            "added": 19,
+            "deleted": 6,
+            "total": 25,
+            "ratio": 0.76
+        },
+        {
+            "commit": "b3937f5524f9b4311bf44a29f52a820f4701d38c",
+            "issueID": "OPENMEETINGS-1505",
+            "commitDate": "2016-12-27T04:10:30+00:00",
+            "added": 57,
+            "deleted": 12,
+            "total": 69,
+            "ratio": 0.8260869565217391
+        },
+        {
+            "commit": "96d56b46ee54a25a9fef68175068fc21795a83e0",
+            "issueID": "OPENMEETINGS-1989",
+            "commitDate": "2019-02-10T23:14:09+07:00",
+            "added": 4,
+            "deleted": 3,
+            "total": 7,
+            "ratio": 0.5714285714285714
+        },
+        {
+            "commit": "485a2d171b167912a089581567728fe0bfa7ddb4",
+            "issueID": "OPENMEETINGS-1989",
+            "commitDate": "2019-02-10T16:11:54+07:00",
+            "added": 6,
+            "deleted": 0,
+            "total": 6,
+            "ratio": 1.0
+        },
+        {
+            "commit": "fbbd84f64b3832bd07c8211c83cc4ca5710be7d3",
+            "issueID": "OPENMEETINGS-1749",
+            "commitDate": "2017-11-09T14:15:53+07:00",
+            "added": 158,
+            "deleted": 77,
+            "total": 235,
+            "ratio": 0.6723404255319149
+        },
+        {
+            "commit": "506f9e280a03959220fa88eb89e5e4229e99e8f3",
+            "issueID": "OPENMEETINGS-1508",
+            "commitDate": "2016-11-16T05:56:36+00:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "188780e29e226a97bdc6082ccf31c01b084da55b",
+            "issueID": "OPENMEETINGS-1508",
+            "commitDate": "2016-11-16T05:18:32+00:00",
+            "added": 3,
+            "deleted": 3,
+            "total": 6,
+            "ratio": 0.5
+        },
+        {
+            "commit": "5c33efac597d900af1e869de25cb1de1c9f02824",
+            "issueID": "OPENMEETINGS-1502",
+            "commitDate": "2016-12-05T14:58:13+00:00",
+            "added": 3,
+            "deleted": 0,
+            "total": 3,
+            "ratio": 1.0
+        },
+        {
+            "commit": "edc2ea80a0da2072739681c12263145d82dfb317",
+            "issueID": "OPENMEETINGS-1502",
+            "commitDate": "2016-11-15T04:47:51+00:00",
+            "added": 1,
+            "deleted": 0,
+            "total": 1,
+            "ratio": 1.0
+        },
+        {
+            "commit": "b075156565dc5e9c4f71ef49b95b3f4a0912b836",
+            "issueID": "OPENMEETINGS-1502",
+            "commitDate": "2016-11-08T13:09:24+00:00",
+            "added": 101,
+            "deleted": 55,
+            "total": 156,
+            "ratio": 0.6474358974358975
+        },
+        {
+            "commit": "461393f5d8a323c3db142bcb7b10af9b5914ca8c",
+            "issueID": "OPENMEETINGS-1988",
+            "commitDate": "2019-02-13T19:07:42+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "8009a740cac9ae4c68919514bf9c2be30fe1367e",
+            "issueID": "OPENMEETINGS-1988",
+            "commitDate": "2019-02-13T16:50:58+07:00",
+            "added": 18,
+            "deleted": 4,
+            "total": 22,
+            "ratio": 0.8181818181818182
+        },
+        {
+            "commit": "601e319df119ae202ca5933f5b9e2ffa39594572",
+            "issueID": "OPENMEETINGS-1987",
+            "commitDate": "2019-02-11T12:13:08+07:00",
+            "added": 31,
+            "deleted": 10,
+            "total": 41,
+            "ratio": 0.7560975609756098
+        },
+        {
+            "commit": "1fcfddc917c7dd4d35f8a663e7d7a409473e6120",
+            "issueID": "OPENMEETINGS-1504",
+            "commitDate": "2016-11-15T04:33:17+00:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "95adc2342274cf60d9c8f8be4f0d0358771f224c",
+            "issueID": "OPENMEETINGS-1504",
+            "commitDate": "2016-11-14T08:06:25+00:00",
+            "added": 29,
+            "deleted": 20,
+            "total": 49,
+            "ratio": 0.5918367346938775
+        },
+        {
+            "commit": "f2d349d17218bd1a794b43bfe7baa50d3cfb3ee6",
+            "issueID": "OPENMEETINGS-1979",
+            "commitDate": "2019-01-15T12:48:49+07:00",
+            "added": 1,
+            "deleted": 1,
+            "total": 2,
+            "ratio": 0.5
+        },
+        {
+            "commit": "cc11dc160f518601f19a833cd5bc44912a14e4bc",
+            "issueID": "OPENMEETINGS-1979",
+            "commitDate": "2019-01-15T12:11:36+07:00",
+            "added": 62,
+            "deleted": 48,
+            "total": 110,
+            "ratio": 0.5636363636363636
+        },
+        {
+            "commit": "ce5acd5885d3da0d25444b0a20f879495ab00454",
+            "issueID": "OPENMEETINGS-1737",
+            "commitDate": "2017-11-08T13:32:11+07:00",
+            "added": 7,
+            "deleted": 3,
+            "total": 10,
+            "ratio": 0.7
+        },
+        {
+            "commit": "2f124e5a44c2280eed90f20db1913ac6114cddad",
+            "issueID": "OPENMEETINGS-1732",
+            "commitDate": "2017-10-30T11:52:21+07:00",
+            "added": 42,
+            "deleted": 22,
+            "total": 64,
+            "ratio": 0.65625
+        },
+        {
+            "commit": "235da96574357c75f62a8bc72ec8a203d3b185da",
+            "issueID": "OPENMEETINGS-1976",
+            "commitDate": "2019-01-08T20:24:49+07:00",
+            "added": 7,
+            "deleted": 24,
+            "total": 31,
+            "ratio": 0.22580645161290322
+        }
+    ]
+}
