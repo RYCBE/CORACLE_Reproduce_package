@@ -1,0 +1,15 @@
+algorithm,dataset_openmeetings,percentage
+Proportion_ColdStart,0/1794,0.0
+Proportion_ColdStart+,0/1794,0.0
+Proportion_Increment,0/1794,0.0
+Proportion_Increment+,0/1794,0.0
+Proportion_MovingWindow,0/1794,0.0
+Proportion_MovingWindow+,0/1794,0.0
+SZZ_B,0/1794,0.0
+SZZ_B+,0/1794,0.0
+SZZ_RA,0/1794,0.0
+SZZ_RA+,0/1794,0.0
+SZZ_U,0/1794,0.0
+SZZ_U+,0/1794,0.0
+Simple,0/1794,0.0
+LLM4SZZ,139/1794,0.07748049052396878

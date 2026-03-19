@@ -1,0 +1,15 @@
+algorithm,dataset_myfaces,percentage
+Proportion_ColdStart,0/4874,0.0
+Proportion_ColdStart+,0/4874,0.0
+Proportion_Increment,0/4874,0.0
+Proportion_Increment+,0/4874,0.0
+Proportion_MovingWindow,0/4874,0.0
+Proportion_MovingWindow+,0/4874,0.0
+SZZ_B,0/4874,0.0
+SZZ_B+,0/4874,0.0
+SZZ_RA,30/4874,0.006155108740254411
+SZZ_RA+,30/4874,0.006155108740254411
+SZZ_U,27/4874,0.00553959786622897
+SZZ_U+,27/4874,0.00553959786622897
+Simple,0/4874,0.0
+LLM4SZZ,444/4874,0.09109560935576529

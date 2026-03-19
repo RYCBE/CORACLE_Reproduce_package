@@ -1,0 +1,15 @@
+algorithm,dataset_pdfbox,percentage
+Proportion_ColdStart,0/6832,0.0
+Proportion_ColdStart+,0/6832,0.0
+Proportion_Increment,0/6832,0.0
+Proportion_Increment+,0/6832,0.0
+Proportion_MovingWindow,0/6832,0.0
+Proportion_MovingWindow+,0/6832,0.0
+SZZ_B,0/6832,0.0
+SZZ_B+,0/6832,0.0
+SZZ_RA,4/6832,0.000585480093676815
+SZZ_RA+,4/6832,0.000585480093676815
+SZZ_U,68/6832,0.009953161592505855
+SZZ_U+,68/6832,0.009953161592505855
+Simple,0/6832,0.0
+LLM4SZZ,1368/6832,0.20023419203747073

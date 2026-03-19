@@ -1,0 +1,10 @@
+pdfbox PDFBOX 6832
+wicket WICKET 12424
+jackrabbit JCR 10778
+cxf CXF 15885
+ignite IGNITE 6451
+myfaces MYFACES 4874
+camel CAMEL 26078
+karaf KARAF 4105
+maven MNG 1428
+openmeetings OPENMEETINGS 1794
